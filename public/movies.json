@@ -1,98 +1,2046 @@
 [
   {
-    "id": "sample-casablanca",
-    "title": "Casablanca",
-    "year": 1942,
-    "directors": ["Michael Curtiz"],
-    "genres": ["Drama", "Romance", "War"],
-    "runtimeMinutes": 102,
-    "synopsis": "In wartime Morocco, a cynical nightclub owner must choose between love and virtue when his former flame and her resistance-leader husband walk into his café.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CasablancaPoster-Gold.jpg",
+    "id": "2012-2009",
+    "title": "2012",
+    "year": 2009,
+    "directors": [
+      "Roland Emmerich"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "2012 is a 2009 American epic disaster film directed by Roland Emmerich, written by Emmerich and Harald Kloser, and starring John Cusack, Chiwetel Ejiofor, Amanda Peet, Oliver Platt, Thandiwe Newton, Danny Glover, and Woody Harrelson. Based on the 2012 phenomenon, its plot follows numerous characters, including novelist Jackson Curtis (Cusack) and geologist Adrian Helmsley (Ejiofor), as they struggle to survive an eschatological sequence of events including earthquakes, volcanic eruptions, and megatsunamis.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/dd/2012_Poster.jpg",
     "format": "Blu-ray",
-    "sample": true
+    "runtimeMinutes": 158
   },
   {
-    "id": "sample-metropolis",
-    "title": "Metropolis",
-    "year": 1927,
-    "directors": ["Fritz Lang"],
-    "genres": ["Sci-Fi", "Drama"],
-    "runtimeMinutes": 153,
-    "synopsis": "In a towering futuristic city, the son of a powerful industrialist discovers the underground world of laborers and joins a prophetic struggle for solidarity.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Boris_Bilinski_-_Filmplakat_f%C3%BCr_Metropolis.jpg",
+    "id": "300-2006",
+    "title": "300",
+    "year": 2006,
+    "directors": [
+      "Zack Snyder"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "synopsis": "300 is a 2006 epic historical fantasy action film directed by Zack Snyder, who co-wrote the screenplay with Kurt Johnstad and Michael B. Gordon. Based on the 1998 Dark Horse Comics limited series of the same name by Frank Miller and Lynn Varley, the film, like its source material, is a retelling of the Battle of Thermopylae in the Greco-Persian Wars.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/300poster.jpg",
     "format": "Blu-ray",
-    "sample": true
+    "runtimeMinutes": 117
   },
   {
-    "id": "sample-nosferatu",
+    "id": "a24-horror-5-film-collection-2020",
+    "title": "A24 Horror 5-Film Collection",
+    "year": 2020,
+    "directors": [],
+    "genres": [
+      "Horror"
+    ],
+    "synopsis": "A Blu-ray multi-pack collecting five A24 horror films. Exact titles in this physical set are not listed on the case spine; this entry represents the collection as a whole.",
+    "posterUrl": "",
+    "format": "Blu-ray"
+  },
+  {
+    "id": "adventureland-2009",
+    "title": "Adventureland",
+    "year": 2009,
+    "directors": [
+      "Greg Mottola"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "synopsis": "Adventureland is a 2009 American romantic comedy-drama film written and directed by Greg Mottola. It stars Jesse Eisenberg, Kristen Stewart, Ryan Reynolds, Kristen Wiig, Bill Hader, Martin Starr, and Margarita Levieva. In the film, recent college graduate James Brennan (Eisenberg) takes a job at a run-down Pittsburgh amusement park to save up for grad school in New York. The theme park is loosely based on the \"Adventureland\" local theme park in Farmingdale, a village on Long Island, New York.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/bb/Adventurelandposter.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 107
+  },
+  {
+    "id": "ambulance-2022",
+    "title": "Ambulance",
+    "year": 2022,
+    "directors": [
+      "Michael Bay"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "synopsis": "Ambulance is a 2022 American action thriller film directed by Michael Bay. It is a remake of the 2005 Danish film. It stars Jake Gyllenhaal and Yahya Abdul-Mateen II as adoptive brothers who hijack an ambulance after robbing a bank and take a paramedic (Eiza González) and an injured police officer (Jackson White) hostage. The film was first announced in 2015 and went through several crew changes. In 2020, Bay came on board to direct after the COVID-19 pandemic disrupted his plans to shoot a different film.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Ambulance_film_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 136
+  },
+  {
+    "id": "american-hustle-2013",
+    "title": "American Hustle",
+    "year": 2013,
+    "directors": [
+      "David O. Russell"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "synopsis": "American Hustle is a 2013 American black comedy crime film directed by David O. Russell. It was written by Eric Warren Singer and Russell and inspired by the FBI Abscam operation of the late 1970s and early 1980s. It stars Christian Bale and Amy Adams as two con artists forced by an FBI agent (Bradley Cooper) to set up an elaborate sting operation on corrupt politicians, including the mayor of Camden, New Jersey (Jeremy Renner). Jennifer Lawrence plays the unpredictable wife of Bale's character.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/85/American_Hustle_2013_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 138
+  },
+  {
+    "id": "anchorman-2-the-legend-continues-2013",
+    "title": "Anchorman 2: The Legend Continues",
+    "year": 2013,
+    "directors": [
+      "Adam McKay"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "synopsis": "Anchorman 2: The Legend Continues is a 2013 American comedy film and the sequel to the 2004 film Anchorman: The Legend of Ron Burgundy. As with the original film, it is directed by Adam McKay, produced by Judd Apatow, written by McKay and Will Ferrell, with Ferrell, Steve Carell, Paul Rudd, David Koechner, Christina Applegate, and Fred Willard all reprising their roles from the first film. Development for the film began as early as 2008, but Paramount Pictures turned down the proposed sequel.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/0c/Anchorman_2_Teaser_Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 119
+  },
+  {
+    "id": "arrow-the-complete-first-season-2012",
+    "title": "Arrow: The Complete First Season",
+    "year": 2012,
+    "directors": [
+      "Various"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "synopsis": "Arrow is an American superhero television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg based on the DC Comics character Green Arrow, a costumed crime-fighter created by Mort Weisinger and George Papp, and is the first series of the Arrowverse, sharing continuity with other related television series. The series premiered in the United States on The CW on October 10, 2012, and ran for eight seasons until January 28, 2020. Arrow was primarily filmed in Vancouver, British Columbia, Canada.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Arrow_Intertitle.png",
+    "format": "Blu-ray"
+  },
+  {
+    "id": "arrow-the-complete-fourth-season-2015",
+    "title": "Arrow: The Complete Fourth Season",
+    "year": 2015,
+    "directors": [
+      "Various"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "synopsis": "Arrow is an American superhero television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg based on the DC Comics character Green Arrow, a costumed crime-fighter created by Mort Weisinger and George Papp, and is the first series of the Arrowverse, sharing continuity with other related television series. The series premiered in the United States on The CW on October 10, 2012, and ran for eight seasons until January 28, 2020. Arrow was primarily filmed in Vancouver, British Columbia, Canada.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Arrow_Intertitle.png",
+    "format": "Blu-ray"
+  },
+  {
+    "id": "avengers-endgame-2019",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "synopsis": "Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018) and the 22nd film in the Marvel Cinematic Universe (MCU).",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 181
+  },
+  {
+    "id": "ben-hur-2016",
+    "title": "Ben-Hur",
+    "year": 2016,
+    "directors": [
+      "Timur Bekmambetov"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "synopsis": "Ben-Hur is a 2016 epic historical drama film directed by Timur Bekmambetov, and written by Keith Clarke and John Ridley. It is the fifth film adaptation of the 1880 novel Ben-Hur: A Tale of the Christ by Lew Wallace and the third version produced by Metro-Goldwyn-Mayer. It has been termed a \"re-adaptation\", \"reimagining\", and \"new interpretation\" of the novel, and follows Judah Ben-Hur, a young prince who is falsely accused by his step-brother, an officer of the Roman army, and is sent to slavery, only to escape and seek vengeance.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/0a/Ben-Hur_2016_poster.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 123
+  },
+  {
+    "id": "beowulf-grendel-2005",
+    "title": "Beowulf & Grendel",
+    "year": 2005,
+    "directors": [
+      "Sturla Gunnarsson"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "synopsis": "Beowulf & Grendel is a 2005 Canadian-Icelandic fantasy adventure film directed by Sturla Gunnarsson, loosely based on the Anglo-Saxon epic poem Beowulf. It stars Gerard Butler as Beowulf, Stellan Skarsgård as Hrothgar, Ingvar Eggert Sigurðsson as Grendel and Sarah Polley as the witch Selma. The screenplay was written by Andrew Rai Berzins.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/Beowulf_%26_Grendel_%282005_film%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 103
+  },
+  {
+    "id": "cedar-rapids-2011",
+    "title": "Cedar Rapids",
+    "year": 2011,
+    "directors": [
+      "Miguel Arteta"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "synopsis": "Cedar Rapids is a 2011 American comedy film directed by Miguel Arteta. The script, written by Phil Johnston, was included on the 2009 Black List, a Hollywood list of the most popular unproduced screenplays of the year. The film stars Ed Helms, John C. Reilly, Anne Heche, Isiah Whitlock Jr., and Sigourney Weaver. Cedar Rapids premiered at the 27th Sundance Film Festival on January 23, 2011, before being released by Fox Searchlight Pictures in the United States on February 11, 2011.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Cedar_rapids_film_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 87
+  },
+  {
+    "id": "chappie-2015",
+    "title": "Chappie",
+    "year": 2015,
+    "directors": [
+      "Neill Blomkamp"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "synopsis": "Chappie (stylized as CHAPPiE) is a 2015 dystopian science fiction action film directed by Neill Blomkamp and written by Blomkamp and Terri Tatchell. A bilateral co-production between the United States and South Africa, the film stars Sharlto Copley, Dev Patel, Hugh Jackman, Ninja, Yolandi Visser, Jose Pablo Cantillo, and Sigourney Weaver. The film, set and shot in Johannesburg, is about an artificial general intelligence law enforcement robot captured and taught by gangsters, who nickname it Chappie.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/71/Chappie_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 120
+  },
+  {
+    "id": "coraline-2009",
+    "title": "Coraline",
+    "year": 2009,
+    "directors": [
+      "Henry Selick"
+    ],
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "synopsis": "Coraline is a 2009 American animated Gothic dark fantasy horror film written, directed, and co-produced by Henry Selick and based on the 2002 novella by Neil Gaiman. It stars the voices of Dakota Fanning, Teri Hatcher, Jennifer Saunders, Dawn French, and Ian McShane. The film tells the story of a young girl discovering an idealized alternate universe behind a secret door in her new home, unaware that it contains something dark and sinister.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/Coraline_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 100
+  },
+  {
+    "id": "cowboys-aliens-2011",
+    "title": "Cowboys & Aliens",
+    "year": 2011,
+    "directors": [
+      "Jon Favreau"
+    ],
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Western"
+    ],
+    "synopsis": "Cowboys & Aliens is a 2011 American space Western film directed by Jon Favreau and starring Daniel Craig, Harrison Ford, Olivia Wilde, Sam Rockwell, Adam Beach, Paul Dano, and Noah Ringer. The film is based on the 2006 Platinum Studios graphic novel of the same name created by Scott Mitchell Rosenberg.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/Cowboys_%26_Aliens.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 119
+  },
+  {
+    "id": "dallas-buyers-club-2013",
+    "title": "Dallas Buyers Club",
+    "year": 2013,
+    "directors": [
+      "Jean-Marc Vallée"
+    ],
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "synopsis": "Dallas Buyers Club is a 2013 American biographical drama film written by Craig Borten and Melisa Wallack, and directed by Jean-Marc Vallée. The film tells the story of Ron Woodroof (Matthew McConaughey), a cowboy diagnosed with AIDS in the mid-1980s, a time when both the etiology and the treatment of HIV/AIDS were poorly understood and its sufferers subject to stigma. As part of an ongoing experimental AIDS treatment movement, Woodroof smuggles unapproved pharmaceutical drugs into Texas to treat his symptoms.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/a/a8/Dallas_Buyers_Club_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 117
+  },
+  {
+    "id": "dan-in-real-life-2007",
+    "title": "Dan in Real Life",
+    "year": 2007,
+    "directors": [
+      "Peter Hedges"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "synopsis": "Dan in Real Life is a 2007 American romantic comedy drama film directed by Peter Hedges, and stars Steve Carell, Alison Pill, Juliette Binoche, Dianne Wiest, John Mahoney and Dane Cook. This is the first Touchstone Pictures film to be distributed by Walt Disney Studios Motion Pictures after Disney retired the Buena Vista brand from its distribution division. The film received generally positive reviews from critics and grossed $68 million worldwide.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/Dan_in_real_life.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 98
+  },
+  {
+    "id": "deadpool-2016",
+    "title": "Deadpool",
+    "year": 2016,
+    "directors": [
+      "Tim Miller"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Deadpool is a 2016 American superhero film based on the Marvel Comics character Wade Wilson / Deadpool. Directed by Tim Miller, in his feature directorial debut, and written by Rhett Reese and Paul Wernick, it is a spin-off of the X-Men film series and its overall eighth installment. Ryan Reynolds stars as the titular character, alongside Morena Baccarin, Ed Skrein, T.J. Miller, Gina Carano, and Brianna Hildebrand.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 108
+  },
+  {
+    "id": "deadpool-2-2018",
+    "title": "Deadpool 2",
+    "year": 2018,
+    "directors": [
+      "David Leitch"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Deadpool 2 is a 2018 American superhero film based on the Marvel Comics character Deadpool. It is the sequel to Deadpool (2016) and the eleventh installment in the X-Men film series. The film was directed by David Leitch and written by Rhett Reese, Paul Wernick, and Ryan Reynolds, who stars in the title role alongside Josh Brolin, Morena Baccarin, Julian Dennison, Zazie Beetz, T.J. Miller, Brianna Hildebrand, and Jack Kesy. In the film, Deadpool forms the X-Force to protect a young mutant from the time-traveling soldier Cable.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/Deadpool_2_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 119
+  },
+  {
+    "id": "divergent-2014",
+    "title": "Divergent",
+    "year": 2014,
+    "directors": [
+      "Neil Burger"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Divergent is a 2014 American dystopian science fiction action film directed by Neil Burger, based on the 2011 novel by Veronica Roth. The film is the first installment in The Divergent Series and was produced by Douglas Wick, Lucy Fisher, and Pouya Shahbazian, with a screenplay by Evan Daugherty and Vanessa Taylor. It stars Shailene Woodley, Theo James, Ashley Judd, Jai Courtney, Ray Stevenson, Zoë Kravitz, Miles Teller, Tony Goldwyn, Ansel Elgort, Maggie Q, and Kate Winslet.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Divergent_film_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 139
+  },
+  {
+    "id": "django-unchained-2012",
+    "title": "Django Unchained",
+    "year": 2012,
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "synopsis": "Django Unchained ( JANG-goh) is a 2012 American revisionist Western film written and directed by Quentin Tarantino. Produced by Tarantino's A Band Apart and Columbia Pictures, it stars Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, and Samuel L. Jackson with Walton Goggins, Dennis Christopher, James Remar, Michael Parks, and Don Johnson in supporting roles.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 165
+  },
+  {
+    "id": "dumbo-1941",
+    "title": "Dumbo",
+    "year": 1941,
+    "directors": [
+      "Ben Sharpsteen"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "synopsis": "Dumbo is a 1941 American animated musical fantasy film produced by Walt Disney Productions and released by RKO Radio Pictures. It is based upon the storyline written by Helen Aberson and Harold Pearl, and illustrated by Helen Durney for the prototype of a novelty toy (\"Roll-a-Book\"). The main character is Jumbo Jr., an elephant who is ridiculed for his oversized ears and mockingly nicknamed \"Dumbo\", but in fact he is capable of flying by using his ears as wings.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/Dumbo-1941-poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 64
+  },
+  {
+    "id": "dune-2021",
+    "title": "Dune",
+    "year": 2021,
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "synopsis": "Dune (titled on-screen as Dune: Part One) is a 2021 American epic space opera film co-produced and directed by Denis Villeneuve, who co-wrote the screenplay with Jon Spaihts and Eric Roth. It is the first of a two-part adaptation of the 1965 novel by Frank Herbert and the first installment in Villeneuve's Dune film trilogy.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 155
+  },
+  {
+    "id": "duplicity-2009",
+    "title": "Duplicity",
+    "year": 2009,
+    "directors": [
+      "Tony Gilroy"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "synopsis": "Duplicity may refer to: Duplicity (play), a 1781 comedy by Thomas Holcroft Duplicity (Silent Descent album), 2000 Duplicity (Lee Konitz and Martial Solal album), 1978 Duplicity (TV series), a 2016 Nigerian drama series Duplicity (2009 film), a comedy thriller starring Clive Owen and Julia Roberts Duplicity (2025 film), an American mystery thriller film Duplicity (law), when the charge on an indictment describes two different offences Duplicity Remix, an EP by English trance metal band Silent Descent \"Duplicity\" (Revenge), an episode of the…",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/09/Duplicity_film.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 125
+  },
+  {
+    "id": "earth-2007",
+    "title": "Earth",
+    "year": 2007,
+    "directors": [
+      "Alastair Fothergill",
+      "Mark Linfield"
+    ],
+    "genres": [
+      "Documentary",
+      "Family"
+    ],
+    "synopsis": "Earth is a 2007 nature documentary film which depicts the diversity of wild habitats and creatures across the planet. The film begins in the Arctic in January of one year and moves southward, concluding in Antarctica in the December of the same year. Along the way, it features the journeys made by three particular species—the polar bear, African bush elephant and humpback whale—to highlight the threats to their survival in the face of rapid environmental change.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Earthposter.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 90
+  },
+  {
+    "id": "enchanted-2007",
+    "title": "Enchanted",
+    "year": 2007,
+    "directors": [
+      "Kevin Lima"
+    ],
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "synopsis": "Enchanted is a 2007 American live action/animated musical fantasy comedy film directed by Kevin Lima and written by Bill Kelly. Co-produced by Walt Disney Pictures, Josephson Entertainment, and Right Coast Productions, the film stars Amy Adams, Patrick Dempsey, James Marsden, Timothy Spall, Idina Menzel, and Susan Sarandon, with Julie Andrews as the narrator.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Enchantedposter.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 107
+  },
+  {
+    "id": "fast-furious-6-2013",
+    "title": "Fast & Furious 6",
+    "year": 2013,
+    "directors": [
+      "Justin Lin"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "synopsis": "Fast & Furious 6 (titled onscreen as Furious 6) is a 2013 American action film directed by Justin Lin and written by Chris Morgan. It is the sequel to Fast Five (2011) and the sixth installment in the Fast & Furious franchise. The film stars Vin Diesel as Dominic Toretto and Paul Walker as Brian O'Conner, alongside Dwayne Johnson, Michelle Rodriguez, Jordana Brewster, Tyrese Gibson, Chris \"Ludacris\" Bridges, Sung Kang, Luke Evans, Gina Carano, and John Ortiz.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/30/Fast_%26_Furious_6_film_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 130
+  },
+  {
+    "id": "fast-five-2011",
+    "title": "Fast Five",
+    "year": 2011,
+    "directors": [
+      "Justin Lin"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "synopsis": "Fast Five (also known as Fast & Furious 5) is a 2011 American action film directed by Justin Lin and written by Chris Morgan. It is the sequel to Fast & Furious (2009) and the fifth installment in the Fast & Furious franchise. The film stars Vin Diesel as Dominic Toretto and Paul Walker as Brian O'Conner, alongside Jordana Brewster, Tyrese Gibson, Gal Gadot, Ludacris, Matt Schulze, Sung Kang and Dwayne Johnson.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/0c/Fast_Five_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 130
+  },
+  {
+    "id": "faster-2010",
+    "title": "Faster",
+    "year": 2010,
+    "directors": [
+      "George Tillman Jr."
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "synopsis": "Faster is a 2010 American action thriller film starring Dwayne Johnson, Billy Bob Thornton, Oliver Jackson-Cohen, Carla Gugino, Maggie Grace, Mike Epps, Moon Bloodgood, Adewale Akinnuoye-Agbaje, and Tom Berenger. The film was directed by George Tillman Jr. from a script by Tony and Joe Gayton. Faster was released on November 24, 2010, by CBS Films in the United States, and by Sony Pictures Releasing International in international markets.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/0a/Faster2010Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 98
+  },
+  {
+    "id": "frozen-2013",
+    "title": "Frozen",
+    "year": 2013,
+    "directors": [
+      "Chris Buck",
+      "Jennifer Lee"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Frozen is a 2013 American animated musical fantasy film produced by Walt Disney Animation Studios, loosely inspired by Hans Christian Andersen's 1844 fairy tale \"The Snow Queen\". Directed by Chris Buck and Jennifer Lee and written by Lee, it stars the voices of Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, and Santino Fontana.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 102
+  },
+  {
+    "id": "get-smart-2008",
+    "title": "Get Smart",
+    "year": 2008,
+    "directors": [
+      "Peter Segal"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Get Smart is a 2008 American spy action comedy film directed by Peter Segal, written by Tom J. Astle and Matt Ember and produced by Leonard B. Stern, who was also the producer of the original series. The film is based on Mel Brooks and Buck Henry's television series of the same name. The film stars Steve Carell, Anne Hathaway, Dwayne Johnson, and Alan Arkin, with Terence Stamp and James Caan in supporting roles. Bernie Kopell, who played Siegfried in the original series, also appeared in the film.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/88/Getsmart08.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 110
+  },
+  {
+    "id": "ghost-in-the-shell-2017",
+    "title": "Ghost in the Shell",
+    "year": 2017,
+    "directors": [
+      "Rupert Sanders"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "synopsis": "Ghost in the Shell is a 2017 cyberpunk action thriller film directed by Rupert Sanders and written by Jamie Moss, William Wheeler, and Ehren Kruger. It is the first live-action film adaptation based on the Japanese Ghost in the Shell franchise envisioned by Masamune Shirow, and stars Scarlett Johansson, Takeshi Kitano, Michael Pitt, Pilou Asbæk, Chin Han, and Juliette Binoche.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/11/Ghost_in_the_Shell_%282017_film%29.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 107
+  },
+  {
+    "id": "gravity-2013",
+    "title": "Gravity",
+    "year": 2013,
+    "directors": [
+      "Alfonso Cuarón"
+    ],
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "synopsis": "Gravity, or gravitation, is the mass-proportionate mutual attraction between all things that have mass. Gravity may also refer to:",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Gravity_Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 91
+  },
+  {
+    "id": "great-barrier-reef-2012",
+    "title": "Great Barrier Reef",
+    "year": 2012,
+    "directors": [
+      "Various"
+    ],
+    "genres": [
+      "Documentary",
+      "Nature"
+    ],
+    "synopsis": "The Great Barrier Reef is the world's largest coral reef system off the coast of Australia. Great Barrier Reef may also refer to:",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/92/BBC_Great_Barrier_Reef_2012.jpg",
+    "format": "Blu-ray"
+  },
+  {
+    "id": "green-zone-2010",
+    "title": "Green Zone",
+    "year": 2010,
+    "directors": [
+      "Paul Greengrass"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "synopsis": "Green Zone is a 2010 action thriller film directed by Paul Greengrass and written by Brian Helgeland, based on the 2006 non-fiction book Imperial Life in the Emerald City by journalist Rajiv Chandrasekaran. The book documented life within the Green Zone in Baghdad during the 2003 invasion of Iraq.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/Green_Zone_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 115
+  },
+  {
+    "id": "gretel-hansel-2020",
+    "title": "Gretel & Hansel",
+    "year": 2020,
+    "directors": [
+      "Oz Perkins"
+    ],
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "synopsis": "Gretel & Hansel (also known as Gretel & Hansel: A Grim Fairy Tale) is a 2020 dark fantasy horror film directed by Osgood Perkins and written by Rob Hayes, based on the German fairy tale \"Hansel and Gretel\" by the Brothers Grimm. Sophia Lillis and Sam Leakey portray the titular characters, with Alice Krige and Jessica De Gouw also starring. The film follows the siblings Gretel and Hansel as they become lost in the forest and then stumble upon the home of a witch.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/de/Gretel_%26_Hansel_-_A_Grim_Fairy_Tale_theatrical_poster.jpeg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 87
+  },
+  {
+    "id": "hancock-2008",
+    "title": "Hancock",
+    "year": 2008,
+    "directors": [
+      "Peter Berg"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "synopsis": "Hancock is a 2008 American superhero film starring Will Smith as John Hancock, an amnesiac, alcoholic, reckless superhuman trying to remember his past. The film was directed by Peter Berg and written by Vince Gilligan and Vy Vincent Ngo. The film also stars Charlize Theron, Jason Bateman and Eddie Marsan. The story was originally written by Vy Vincent Ngo in 1996.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c9/Hancockposter.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 92
+  },
+  {
+    "id": "hellboy-2004",
+    "title": "Hellboy",
+    "year": 2004,
+    "directors": [
+      "Guillermo del Toro"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "Hellboy is a 2004 American superhero film based on the Dark Horse Comics character, created by Mike Mignola. Written and directed by Guillermo del Toro, it is the first live-action film in the Hellboy franchise. Ron Perlman stars as the titular character, alongside Selma Blair, Jeffrey Tambor, Karel Roden, Rupert Evans, and John Hurt. The film draws inspiration from the debut comic Hellboy: Seed of Destruction.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/Hellboy_poster.jpg",
+    "format": "4K UHD",
+    "runtimeMinutes": 122
+  },
+  {
+    "id": "hercules-2014",
+    "title": "Hercules",
+    "year": 2014,
+    "directors": [
+      "Brett Ratner"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "Hercules is a 2014 American action-adventure fantasy film directed by Brett Ratner from a screenplay by Ryan J. Condal and Evan Spiliotopoulos. It stars Dwayne Johnson as Hercules, a self-proclaimed demigod who is hired to lead the armies of Thrace into battle against a warlord. Ian McShane, Rebecca Ferguson, Rufus Sewell, Joseph Fiennes, Peter Mullan, and John Hurt also star. The film is based on Steve Moore's graphic novel Hercules, specifically the limited series The Thracian Wars.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/09/Hercules_%282014_film%29.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 98
+  },
+  {
+    "id": "hitman-agent-47-2015",
+    "title": "Hitman: Agent 47",
+    "year": 2015,
+    "directors": [
+      "Aleksander Bach"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "synopsis": "Hitman: Agent 47 is a 2015 action thriller film based on the Hitman video game series, developed by IO Interactive, and its main character, a mysterious assassin known only as Agent 47. It is a reboot of the 2007 film Hitman, and was directed by Aleksander Bach (in his directorial debut) and written by Skip Woods (who also wrote the 2007 film) and Michael Finch. The film stars Rupert Friend, Hannah Ware, Zachary Quinto, Ciarán Hinds, Thomas Kretschmann, and Angelababy.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/Hitman_Agent_47_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 96
+  },
+  {
+    "id": "horrible-bosses-2011",
+    "title": "Horrible Bosses",
+    "year": 2011,
+    "directors": [
+      "Seth Gordon"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "synopsis": "Horrible Bosses is a 2011 American crime black comedy film directed by Seth Gordon and written by Michael Markowitz, John Francis Daley, and Jonathan Goldstein, from a story by Markowitz. It stars Jason Bateman, Charlie Day, Jason Sudeikis, Jennifer Aniston, Colin Farrell, Kevin Spacey, Donald Sutherland, and Jamie Foxx. The plot follows three friends, played by Bateman, Day, and Sudeikis, who decide to murder their respective overbearing, abusive bosses, portrayed by Spacey, Aniston, and Farrell.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/92/Horrible_Bosses.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 98
+  },
+  {
+    "id": "horrible-bosses-2-2014",
+    "title": "Horrible Bosses 2",
+    "year": 2014,
+    "directors": [
+      "Sean Anders"
+    ],
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "synopsis": "Horrible Bosses 2 is a 2014 American crime comedy film directed by Sean Anders and written by Anders and John Morris. A sequel to 2011's Horrible Bosses, the film features Jason Bateman, Charlie Day, Jason Sudeikis, Jennifer Aniston, Jamie Foxx, Kevin Spacey, and Lindsay Sloane reprising their roles from the previous film, with Chris Pine and Christoph Waltz joining the cast.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/Horrible_Bosses_2.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 108
+  },
+  {
+    "id": "inception-2010",
+    "title": "Inception",
+    "year": 2010,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Inception is a 2010 science fiction heist film written and directed by Christopher Nolan, who also produced it with his wife Emma Thomas. The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating his targets' subconscious. He is offered a chance to have his criminal history erased as payment for implanting an idea into a target's subconscious. The ensemble cast includes Ken Watanabe, Joseph Gordon-Levitt, Marion Cotillard, Elliot Page, Tom Hardy, Cillian Murphy, Tom Berenger, Dileep Rao, and Michael Caine.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 148
+  },
+  {
+    "id": "indiana-jones-and-the-last-crusade-1989",
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "Indiana Jones and the Last Crusade is a 1989 American action-adventure film directed by Steven Spielberg from a screenplay by Jeffrey Boam, based on a story by George Lucas and Menno Meyjes. It is the third installment in the Indiana Jones film series and the narrative sequel to Raiders of the Lost Ark (1981). Harrison Ford reprises his role as the titular character, while Sean Connery co-stars as",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/Indiana_Jones_and_the_Last_Crusade.png",
+    "format": "4K UHD",
+    "runtimeMinutes": 127
+  },
+  {
+    "id": "indiana-jones-and-the-temple-of-doom-1984",
+    "title": "Indiana Jones and the Temple of Doom",
+    "year": 1984,
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg from a script by Willard Huyck and Gloria Katz, based on a story by George Lucas. It is the second installment in the Indiana Jones film series and a prequel to Raiders of the Lost Ark. The film stars Harrison Ford, who reprises his role as the titular character. Kate Capshaw, Amrish Puri, Roshan Seth, Philip Stone and Ke Huy Quan (in his film debut) star in supporting roles.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/10/Indiana_Jones_and_the_Temple_of_Doom_PosterB.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 118
+  },
+  {
+    "id": "iron-man-2008",
+    "title": "Iron Man",
+    "year": 2008,
+    "directors": [
+      "Jon Favreau"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Iron Man is a 2008 American superhero film based on the Marvel Comics character Iron Man. Produced by Marvel Studios and distributed by Paramount Pictures, it is the first film in the Marvel Cinematic Universe (MCU). Directed by Jon Favreau and written by the teams of Mark Fergus & Hawk Ostby and Art Marcum & Matt Holloway, the film stars Robert Downey Jr. as Tony Stark / Iron Man alongside Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, and Shaun Toub.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 126
+  },
+  {
+    "id": "iron-man-2-2010",
+    "title": "Iron Man 2",
+    "year": 2010,
+    "directors": [
+      "Jon Favreau"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Iron Man 2 is a 2010 American superhero film based on the Marvel Comics character Iron Man. Produced by Marvel Studios and distributed by Paramount Pictures, it is the sequel to Iron Man (2008) and the third film in the Marvel Cinematic Universe (MCU). Directed by Jon Favreau and written by Justin Theroux, the film stars Robert Downey Jr. as Tony Stark / Iron Man alongside Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Mickey Rourke, and Samuel L. Jackson.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 124
+  },
+  {
+    "id": "iron-man-3-2013",
+    "title": "Iron Man 3",
+    "year": 2013,
+    "directors": [
+      "Shane Black"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Iron Man 3 is a 2013 American superhero film based on the Marvel Comics character Iron Man, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Iron Man (2008) and Iron Man 2 (2010), and the seventh film in the Marvel Cinematic Universe (MCU). The film was directed by Shane Black from a screenplay he co-wrote with Drew Pearce, and stars Robert Downey Jr.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 130
+  },
+  {
+    "id": "jackass-number-two-2006",
+    "title": "Jackass Number Two",
+    "year": 2006,
+    "directors": [
+      "Jeff Tremaine"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Documentary"
+    ],
+    "synopsis": "Jackass Number Two is a 2006 American reality slapstick comedy film directed by Jeff Tremaine, and produced by Tremaine, Spike Jonze, and Johnny Knoxville. It is the sequel to Jackass: The Movie (2002), both based upon the MTV series Jackass. Like its predecessor and the original television show, the film is a compilation of stunts, pranks and skits, starring the regular Jackass cast of Johnny Knoxville, Bam Margera, Dave England, Ryan Dunn, Chris Pontius, Wee Man, Steve-O, Preston Lacy, and Danger Ehren.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Jackass_Number_Two_movie_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 95
+  },
+  {
+    "id": "jarhead-2005",
+    "title": "Jarhead",
+    "year": 2005,
+    "directors": [
+      "Sam Mendes"
+    ],
+    "genres": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "synopsis": "Jarhead is a 2005 biographical war drama film based on the 2003 memoir of the same name by Anthony Swofford, chronicling his military service in the United States Marine Corps during the Persian Gulf War. Directed by Sam Mendes, the film stars Jake Gyllenhaal as Swofford with Jamie Foxx, Peter Sarsgaard, Lucas Black, and Chris Cooper. Universal Pictures released the film November 4, 2005 to mixed reviews from critics. It grossed $97 million at the box office against a $72 million budget. Named for the military slang among U.S.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6a/Jarhead.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 123
+  },
+  {
+    "id": "jason-bourne-2016",
+    "title": "Jason Bourne",
+    "year": 2016,
+    "directors": [
+      "Paul Greengrass"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "synopsis": "Jason Bourne is a 2016 American action thriller film co-produced and directed by Paul Greengrass, who co-wrote the script with Christopher Rouse. It is the fifth installment of the Bourne film series and a direct sequel to The Bourne Ultimatum (2007). Matt Damon reprises his role as the main character, former CIA assassin Jason Bourne, in addition to co-producing the film.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/b2/Jason_Bourne_%28film%29.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 123
+  },
+  {
+    "id": "journey-to-the-center-of-the-earth-2008",
+    "title": "Journey to the Center of the Earth",
+    "year": 2008,
+    "directors": [
+      "Eric Brevig"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "synopsis": "Journey to the Center of the Earth is a 2008 American 3D science fantasy action-adventure film starring Brendan Fraser in the main role, alongside Josh Hutcherson and Anita Briem. Directed by Eric Brevig, it is an adaptation of Jules Verne's 1864 novel in which the novel exists within the film's universe. The film tells the story of a volcanologist and his nephew who embark on a mission to go look for the former's missing brother with help from an Icelandic guide as they come across the center of the Earth.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Center_of_the_earth_3d.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 93
+  },
+  {
+    "id": "jurassic-world-fallen-kingdom-2018",
+    "title": "Jurassic World: Fallen Kingdom",
+    "year": 2018,
+    "directors": [
+      "J. A. Bayona"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Jurassic World: Fallen Kingdom is a 2018 American science fiction action film directed by J. A. Bayona and written by Derek Connolly and Colin Trevorrow. The sequel to Jurassic World (2015), it is the second installment in the Jurassic World film series and fifth installment overall in the Jurassic Park franchise. Chris Pratt, Bryce Dallas Howard, BD Wong, and Jeff Goldblum reprise their roles from previous films in the series, with Toby Jones, Ted Levine, and Rafe Spall joining the cast.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/Jurassic_World_Fallen_Kingdom.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 128
+  },
+  {
+    "id": "knocked-up-2007",
+    "title": "Knocked Up",
+    "year": 2007,
+    "directors": [
+      "Judd Apatow"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "synopsis": "Knocked Up is a 2007 American romantic comedy film written, produced and directed by Judd Apatow, and starring Seth Rogen, Katherine Heigl, Paul Rudd, Leslie Mann, Jay Baruchel, Jonah Hill, Jason Segel and Martin Starr. It follows the repercussions of a drunken one-night stand between a slacker and a recently promoted media personality that results in an unintended pregnancy. Knocked Up was directed by Apatow, from a screenplay by himself.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/51/Knockedupmp.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 129
+  },
+  {
+    "id": "kung-fu-panda-2008",
+    "title": "Kung Fu Panda",
+    "year": 2008,
+    "directors": [
+      "Mark Osborne",
+      "John Stevenson"
+    ],
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "Kung Fu Panda is an American media franchise that started in 2008 with the release of the animated film Kung Fu Panda produced by DreamWorks Animation. Following the adventures of the titular Po Ping (primarily voiced by Jack Black and Mick Wingert), a bumbling, gluttonous giant panda who is improbably chosen as the prophesied Dragon Warrior and becomes a master of kung fu. The franchise is set in a fantasy wuxia genre version of ancient China populated by anthropomorphic animals.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/Kungfupanda.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 92
+  },
+  {
+    "id": "les-mis-rables-2012",
+    "title": "Les Misérables",
+    "year": 2012,
+    "directors": [
+      "Tom Hooper"
+    ],
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "synopsis": "Les Misérables is a 2012 epic period musical film directed by Tom Hooper from a screenplay by William Nicholson, Alain Boublil, Claude-Michel Schönberg and Herbert Kretzmer. It is based on the stage musical of the same name by Schönberg, Boublil and Jean-Marc Natel, which in turn is based on the 1862 novel Les Misérables by Victor Hugo.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/b0/Les-miserables-movie-poster1.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 158
+  },
+  {
+    "id": "mission-impossible-ghost-protocol-2011",
+    "title": "Mission: Impossible – Ghost Protocol",
+    "year": 2011,
+    "directors": [
+      "Brad Bird"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "synopsis": "Mission: Impossible – Ghost Protocol is a 2011 American action spy film directed by Brad Bird (in his live-action directorial debut) from a screenplay by the writing team of Josh Appelbaum and André Nemec, who also serve as co-producers. Produced by Tom Cruise, J. J. Abrams, and Bryan Burk, it is the sequel to Mission: Impossible III (2006) and the fourth installment in the Mission: Impossible film series.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/b5/Mission_impossible_ghost_protocol.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 133
+  },
+  {
+    "id": "moneyball-2011",
+    "title": "Moneyball",
+    "year": 2011,
+    "directors": [
+      "Bennett Miller"
+    ],
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "synopsis": "Moneyball is a 2011 American biographical sports drama film directed by Bennett Miller and adapted by Steven Zaillian and Aaron Sorkin. It stars Brad Pitt, Jonah Hill, Philip Seymour Hoffman, Robin Wright and Chris Pratt. The film is based on the 2003 book Moneyball: The Art of Winning an Unfair Game by Michael Lewis, an account of the Oakland Athletics baseball team's 2002 season and their general manager Billy Beane's attempts to assemble a competitive team with half (or even a third) as much money as his rivals.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Moneyball_Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 133
+  },
+  {
+    "id": "monsters-vs-aliens-2009",
+    "title": "Monsters vs. Aliens",
+    "year": 2009,
+    "directors": [
+      "Conrad Vernon",
+      "Rob Letterman"
+    ],
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "Monsters vs. Aliens is a 2009 American animated science fiction comedy film directed by Conrad Vernon and Rob Letterman and written by Letterman, Maya Forbes, Wally Wolodarsky, Jonathan Aibel and Glenn Berger. Produced by DreamWorks Animation, it is the first installment in the Monsters vs. Aliens franchise. The film stars Reese Witherspoon, Seth Rogen, Hugh Laurie, Will Arnett, Kiefer Sutherland, Rainn Wilson, Paul Rudd, and Stephen Colbert.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/Monsters-vs-aliens-poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 94
+  },
+  {
+    "id": "monsters-inc-2001",
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "directors": [
+      "Pete Docter"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Monsters, Inc. is a 2001 American animated fantasy comedy film directed by Pete Docter and written by Andrew Stanton and Daniel Gerson. Produced by Pixar Animation Studios for Walt Disney Pictures, the film stars the voices of John Goodman, Billy Crystal, Steve Buscemi, James Coburn, Jennifer Tilly, and Mary Gibbs. It centers on two monsters, the hairy James P.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/63/Monsters_Inc.JPG",
+    "format": "Blu-ray",
+    "runtimeMinutes": 92
+  },
+  {
+    "id": "night-at-the-museum-secret-of-the-tomb-2014",
+    "title": "Night at the Museum: Secret of the Tomb",
+    "year": 2014,
+    "directors": [
+      "Shawn Levy"
+    ],
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "synopsis": "Night at the Museum: Secret of the Tomb is a 2014 American fantasy comedy film directed by Shawn Levy and written by David Guion and Michael Handelman. It is the third (and final live-action) installment in the Night at the Museum film series, a sequel to Night at the Museum: Battle of the Smithsonian (2009), and the final installment of the original trilogy. The film stars Ben Stiller in the lead role, Robin Williams, Owen Wilson, Dan Stevens and Ben Kingsley.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/07/Night_at_the_Museum_Secret_of_the_Tomb_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 98
+  },
+  {
+    "id": "nosferatu-2024",
     "title": "Nosferatu",
-    "year": 1922,
-    "directors": ["F. W. Murnau"],
-    "genres": ["Horror", "Silent"],
-    "runtimeMinutes": 94,
-    "synopsis": "A real-estate clerk travels to Transylvania and unwittingly invites a vampire plague into his quiet coastal town.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Max_Schreck_as_Count_Orlok_in_Nosferatu_%E2%80%93_Eine_Symphonie_des_Grauens_%281922%29.jpg",
-    "format": "Blu-ray",
-    "sample": true
+    "year": 2024,
+    "directors": [
+      "Robert Eggers"
+    ],
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "synopsis": "Nosferatu is a 2024 American Gothic horror film written and directed by Robert Eggers. It is a remake of Nosferatu: A Symphony of Horror (1922), which was in turn inspired by Bram Stoker's novel Dracula (1897); the film combines elements of both. It stars Bill Skarsgård, Nicholas Hoult, Lily-Rose Depp, Aaron Taylor-Johnson, Emma Corrin, and Willem Dafoe. Development began in 2015, when Eggers planned to make it his second film; he described it as a passion project, but eventually opted to delay its production.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/48/Nosferatu_IMAX_poster_2024.jpg",
+    "format": "4K UHD",
+    "runtimeMinutes": 132
   },
   {
-    "id": "sample-caligari",
-    "title": "The Cabinet of Dr. Caligari",
-    "year": 1920,
-    "directors": ["Robert Wiene"],
-    "genres": ["Horror", "Thriller", "Silent"],
-    "runtimeMinutes": 74,
-    "synopsis": "A mysterious hypnotist and his somnambulist sideshow act may be connected to a series of murders in a twisted expressionist nightmare.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Das_Cabinet_des_Dr._Caligari.JPG",
+    "id": "oblivion-2013",
+    "title": "Oblivion",
+    "year": 2013,
+    "directors": [
+      "Joseph Kosinski"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Oblivion is a 2013 American epic post-apocalyptic science fiction action film produced and directed by Joseph Kosinski from a screenplay by Karl Gajdusek and Michael deBruyn, starring Tom Cruise in the main role alongside Morgan Freeman, Olga Kurylenko, Andrea Riseborough, Nikolaj Coster-Waldau, and Melissa Leo in supporting roles. Based on Kosinski's unpublished Radical Comics graphic novel of the same name, the film pays homage to 1970s sci-fi, and is a \"love story\" set in 2077 on an Earth desolated by an alien war.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Oblivion2013Poster.jpg",
     "format": "Blu-ray",
-    "sample": true
+    "runtimeMinutes": 124
   },
   {
-    "id": "sample-night-living-dead",
-    "title": "Night of the Living Dead",
-    "year": 1968,
-    "directors": ["George A. Romero"],
-    "genres": ["Horror"],
-    "runtimeMinutes": 96,
-    "synopsis": "Strangers barricade themselves in a rural farmhouse as the recently dead rise and hunger for the living.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Night_Of_The_Living_Dead_%281968%29_-_Poster.jpg",
+    "id": "planes-2013",
+    "title": "Planes",
+    "year": 2013,
+    "directors": [
+      "Klay Hall"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Planes is a 2013 American animated sports comedy film produced by Disneytoon Studios, and a spin-off of Pixar's Cars franchise. The film stars the voices of Dane Cook, Stacy Keach, Priyanka Chopra, Teri Hatcher, Brad Garrett, Julia Louis-Dreyfus, Roger Craig Smith, John Cleese, Carlos Alazraqui, Anthony Edwards, Sinbad, and Val Kilmer.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7b/Planes_FilmPoster.jpeg",
     "format": "Blu-ray",
-    "sample": true
+    "runtimeMinutes": 91
   },
   {
-    "id": "sample-plan9",
-    "title": "Plan 9 from Outer Space",
-    "year": 1959,
-    "directors": ["Ed Wood"],
-    "genres": ["Sci-Fi", "Horror", "Comedy"],
-    "runtimeMinutes": 79,
-    "synopsis": "Aliens resurrect the dead to stop humanity from inventing a doomsday weapon, in one of cinema’s most infamous cult adventures.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Plan_nine_from_outer_space.jpg",
+    "id": "planet-earth-2006",
+    "title": "Planet Earth",
+    "year": 2006,
+    "directors": [
+      "Alastair Fothergill"
+    ],
+    "genres": [
+      "Documentary",
+      "Nature"
+    ],
+    "synopsis": "Planet Earth is a 2006 nature documentary television miniseries produced as a co-production between the BBC Natural History Unit, BBC Worldwide, Discovery Channel and NHK, in association with CBC. Five years in the making, Planet Earth was the most expensive nature documentary series ever commissioned by the BBC and also the first to be filmed in high definition. The series received multiple awards, including four Emmy Awards, a Peabody Award, and an award from the Royal Television Society.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e3/BBC_PE_title.jpg",
     "format": "Blu-ray",
-    "sample": true
+    "runtimeMinutes": 550
   },
   {
-    "id": "sample-his-girl-friday",
-    "title": "His Girl Friday",
-    "year": 1940,
-    "directors": ["Howard Hawks"],
-    "genres": ["Comedy", "Romance"],
-    "runtimeMinutes": 92,
-    "synopsis": "A scheming newspaper editor races the clock to win back his ex-wife reporter before she leaves town—and the scoop of a lifetime.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/His_Girl_Friday_%281940_poster%29.jpg",
+    "id": "prometheus-2012",
+    "title": "Prometheus",
+    "year": 2012,
+    "directors": [
+      "Ridley Scott"
+    ],
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "synopsis": "Prometheus is a 2012 science fiction horror film directed by Ridley Scott and written by Jon Spaihts and Damon Lindelof. It is the fifth installment of the Alien film series and features an ensemble cast including Noomi Rapace, Michael Fassbender, Guy Pearce, Idris Elba, Logan Marshall-Green, and Charlize Theron. Set in the late 21st century, the film centers on the crew of the spaceship Prometheus as it follows a star map discovered among the artifacts of several ancient Earth cultures.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/a/a3/Prometheusposterfixed.jpg",
     "format": "Blu-ray",
-    "sample": true
+    "runtimeMinutes": 124
   },
   {
-    "id": "sample-charade",
-    "title": "Charade",
-    "year": 1963,
-    "directors": ["Stanley Donen"],
-    "genres": ["Mystery", "Romance", "Comedy"],
-    "runtimeMinutes": 113,
-    "synopsis": "A widow in Paris is swept into a stylish chase involving stolen money, impostors, and a charming stranger who may not be who he seems.",
-    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Charade_%281963_poster%29.jpg",
+    "id": "puss-in-boots-2011",
+    "title": "Puss in Boots",
+    "year": 2011,
+    "directors": [
+      "Chris Miller"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Puss in Boots is a 2011 American animated adventure comedy film featuring the titular character originally from Shrek 2 (2004) and inspired by the fairy tale. Produced by DreamWorks Animation, the film was directed by Chris Miller and written by Tom Wheeler. Antonio Banderas stars as Puss in Boots, alongside Salma Hayek, Zach Galifianakis, Billy Bob Thornton, and Amy Sedaris. The film follows the origin story of Puss in Boots, before the events of Shrek 2. Development began following the release of Shrek 2 in 2004.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Puss_in_Boots_%282011_animated_feature_film%29.jpg",
     "format": "Blu-ray",
-    "sample": true
+    "runtimeMinutes": 90
+  },
+  {
+    "id": "quantum-of-solace-2008",
+    "title": "Quantum of Solace",
+    "year": 2008,
+    "directors": [
+      "Marc Forster"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "synopsis": "Quantum of Solace is a 2008 spy film and the twenty-second in the James Bond series produced by Eon Productions. Directed by Marc Forster and written by Neal Purvis, Robert Wade, and Paul Haggis, it is the sequel to Casino Royale (2006), and stars Daniel Craig in his second appearance as the fictional MI6 agent James Bond. The film co-stars Olga Kurylenko, Mathieu Amalric, Giancarlo Giannini, Jeffrey Wright, and Judi Dench.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/Quantum_of_Solace_-_UK_cinema_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 106
+  },
+  {
+    "id": "rogue-one-a-star-wars-story-2016",
+    "title": "Rogue One: A Star Wars Story",
+    "year": 2016,
+    "directors": [
+      "Gareth Edwards"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Rogue One: A Star Wars Story is a 2016 American epic space opera film directed by Gareth Edwards and written by Chris Weitz and Tony Gilroy. Produced by Lucasfilm and distributed by Walt Disney Studios Motion Pictures, it is the first Star Wars anthology film and a prequel to Star Wars (1977). It stars Felicity Jones, Diego Luna, Ben Mendelsohn, Donnie Yen, Mads Mikkelsen, Alan Tudyk, Riz Ahmed, Jiang Wen, and Forest Whitaker.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 133
+  },
+  {
+    "id": "salt-2010",
+    "title": "Salt",
+    "year": 2010,
+    "directors": [
+      "Phillip Noyce"
+    ],
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "synopsis": "Salt is a 2010 American spy action thriller film directed by Phillip Noyce and written by Kurt Wimmer. It stars Angelina Jolie, Liev Schreiber, Daniel Olbrychski, August Diehl, and Chiwetel Ejiofor. Jolie plays CIA operative Evelyn Salt, who is accused of being a Russian sleeper agent and goes on the run to try to clear her name. Originally written with a male protagonist, with Tom Cruise initially secured for the lead, the script was ultimately rewritten by Brian Helgeland for Jolie.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Salt_film_theatrical_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 100
+  },
+  {
+    "id": "sherlock-holmes-2009",
+    "title": "Sherlock Holmes",
+    "year": 2009,
+    "directors": [
+      "Guy Ritchie"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "synopsis": "Sherlock Holmes is a 2009 period mystery action film starring Robert Downey Jr. as the character of the same name created by Sir Arthur Conan Doyle. The film was directed by Guy Ritchie and produced by Joel Silver, Lionel Wigram, Susan Downey, and Dan Lin. The screenplay written by Michael Robert Johnson, Anthony Peckham, and Simon Kinberg was developed from a story by Wigram and Johnson. In addition to Downey as Holmes, Jude Law portrays Dr. John Watson.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Sherlock_holmes_ver5.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 128
+  },
+  {
+    "id": "sherlock-holmes-a-game-of-shadows-2011",
+    "title": "Sherlock Holmes: A Game of Shadows",
+    "year": 2011,
+    "directors": [
+      "Guy Ritchie"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "synopsis": "Sherlock Holmes: A Game of Shadows is a 2011 period mystery action film and the sequel to the 2009 film Sherlock Holmes. The film is directed by Guy Ritchie and produced by Dan Lin, Joel Silver, Lionel Wigram, and Susan Downey. The film's screenplay was written by Kieran Mulroney and Michele Mulroney. Robert Downey Jr. and Jude Law reprise their roles as Sherlock Holmes and Dr.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Sherlock_Holmes2Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 129
+  },
+  {
+    "id": "sicario-2015",
+    "title": "Sicario",
+    "year": 2015,
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "synopsis": "Sicario is a 2015 American action crime thriller film directed by Denis Villeneuve, written by Taylor Sheridan in his screenwriting debut and starring Emily Blunt, Benicio del Toro, and Josh Brolin. The film follows a principled FBI special agent who is enlisted by a government task force to bring down the leader of a powerful and brutal Mexican drug cartel. Sicario was selected to compete for the Palme d'Or at the 2015 Cannes Film Festival.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/4b/Sicario_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 121
+  },
+  {
+    "id": "skyfall-2012",
+    "title": "Skyfall",
+    "year": 2012,
+    "directors": [
+      "Sam Mendes"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "synopsis": "Skyfall is a 2012 spy film and the twenty-third in the James Bond series produced by Eon Productions. The film is the third to star Daniel Craig as fictional MI6 agent James Bond and features Javier Bardem as Raoul Silva, the villain, with Judi Dench returning as M. The film was directed by Sam Mendes and written by Neal Purvis, Robert Wade, and John Logan. In the film, Bond investigates a series of targeted data leaks and co-ordinated attacks on MI6 led by Silva.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/Skyfall_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 143
+  },
+  {
+    "id": "sleepy-hollow-1999",
+    "title": "Sleepy Hollow",
+    "year": 1999,
+    "directors": [
+      "Tim Burton"
+    ],
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "synopsis": "Sleepy Hollow is a 1999 Gothic horror film directed by Tim Burton from a screenplay by Andrew Kevin Walker. Co-produced by Paramount Pictures, Mandalay Pictures, Scott Rudin Productions, American Zoetrope, and Tim Burton Productions, it is based on Washington Irving's 1820 short story \"The Legend of Sleepy Hollow\", and stars Johnny Depp and Christina Ricci, with Miranda Richardson, Michael Gambon, Casper Van Dien, and Jeffrey Jones in supporting roles.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/09/Sleepy_hollow_ver2.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 105
+  },
+  {
+    "id": "spider-man-2002",
+    "title": "Spider-Man",
+    "year": 2002,
+    "directors": [
+      "Sam Raimi"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Spider-Man is a 2002 American superhero film directed by Sam Raimi and written by David Koepp. Based on the Marvel Comics character Spider-Man, it is the first film in Raimi's Spider-Man trilogy, and stars Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco, Cliff Robertson, and Rosemary Harris. The plot follows the timid teenager Peter Parker, who gains superhuman abilities after being bitten by a genetically engineered spider.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Spider-Man_%282002_film%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 121
+  },
+  {
+    "id": "spider-man-2-2004",
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "directors": [
+      "Sam Raimi"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Spider-Man 2 is a 2004 American superhero film directed by Sam Raimi and written by Alvin Sargent from a story conceived by Michael Chabon and the writing team of Alfred Gough and Miles Millar. Based on the Marvel Comics superhero Spider-Man, it is the second film in Raimi's Spider-Man trilogy, and the sequel to Spider-Man (2002). Tobey Maguire stars as Peter Parker / Spider-Man, alongside Kirsten Dunst, James Franco, Alfred Molina, Rosemary Harris, and Donna Murphy.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/4e/Spider-Man_2_USA_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 127
+  },
+  {
+    "id": "spider-man-3-2007",
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "directors": [
+      "Sam Raimi"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Spider-Man 3 is a 2007 American superhero film directed by Sam Raimi, who co-wrote it with his brother Ivan and Alvin Sargent. Based on the Marvel Comics character Spider-Man, it is the final film in Raimi's Spider-Man trilogy and the sequel to Spider-Man 2 (2004). Tobey Maguire stars as Peter Parker / Spider-Man, alongside Kirsten Dunst, James Franco, Thomas Haden Church, Topher Grace, Bryce Dallas Howard, James Cromwell, Rosemary Harris, and J. K. Simmons.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Spider-Man_3%2C_International_Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 139
+  },
+  {
+    "id": "star-wars-the-last-jedi-2017",
+    "title": "Star Wars: The Last Jedi",
+    "year": 2017,
+    "directors": [
+      "Rian Johnson"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "Star Wars: The Last Jedi, also known as Star Wars: Episode VIII – The Last Jedi, or simply The Last Jedi, is a 2017 American epic space opera film written and directed by Rian Johnson. Produced by Lucasfilm and distributed by Walt Disney Studios Motion Pictures, it is the second installment of the Star Wars sequel trilogy, following The Force Awakens (2015), and the eighth episode of the nine-part \"Skywalker saga\".",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Star_Wars_The_Last_Jedi.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 152
+  },
+  {
+    "id": "suicide-squad-2016",
+    "title": "Suicide Squad",
+    "year": 2016,
+    "directors": [
+      "David Ayer"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "Suicide Squad is a 2016 American superhero film based on the DC Comics anti-hero team the Suicide Squad. It is the third installment in the DC Extended Universe (DCEU). Written and directed by David Ayer, it stars an ensemble cast including Will Smith, Jared Leto, Margot Robbie, Joel Kinnaman, Viola Davis, Jai Courtney, Jay Hernandez, Adewale Akinnuoye-Agbaje, Ike Barinholtz, Scott Eastwood, and C",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/Suicide_Squad_%282016_film%29_poster.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 123
+  },
+  {
+    "id": "taken-2008",
+    "title": "Taken",
+    "year": 2008,
+    "directors": [
+      "Pierre Morel"
+    ],
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "synopsis": "Taken is a 2008 English-language French action-thriller film directed by Pierre Morel and written by Luc Besson and Robert Mark Kamen. It stars Liam Neeson, Maggie Grace, Leland Orser, Jon Gries, David Warshofsky, Katie Cassidy, Holly Valance and Famke Janssen. In the film, Bryan Mills, an ex-CIA officer, sets out to track down his teenage daughter Kim and her best friend Amanda after they are kidnapped by Albanian sex traffickers while on vacation in France. Taken was released in France on February 27, 2008.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Taken_film_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 93
+  },
+  {
+    "id": "ted-2012",
+    "title": "Ted",
+    "year": 2012,
+    "directors": [
+      "Seth MacFarlane"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "synopsis": "Ted (stylized in all lowercase) is a 2012 American live-action animated stoner comedy film directed and co-produced by Seth MacFarlane and written by MacFarlane, Alec Sulkin, and Wellesley Wild based on a story written by MacFarlane. The first installment in the Ted franchise, the film stars Mark Wahlberg and Mila Kunis, with Joel McHale and Giovanni Ribisi in supporting roles, and MacFarlane providing the voice and motion capture of the title character.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/Ted_%28film%29.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 106
+  },
+  {
+    "id": "terminator-salvation-2009",
+    "title": "Terminator Salvation",
+    "year": 2009,
+    "directors": [
+      "McG"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Terminator Salvation is a 2009 American military science fiction action film. It is the fourth installment of the Terminator franchise, serving as a sequel to Terminator 3: Rise of the Machines (2003). It is directed by McG and written by John Brancato and Michael Ferris. It is the only Terminator film to date not to feature Arnold Schwarzenegger, though his likeness briefly appears digitally.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/95/Terminator-salvation-poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 115
+  },
+  {
+    "id": "the-amazing-spider-man-2012",
+    "title": "The Amazing Spider-Man",
+    "year": 2012,
+    "directors": [
+      "Marc Webb"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "The Amazing Spider-Man is a 2012 American superhero film based on the Marvel Comics character Spider-Man. Directed by Marc Webb and written by James Vanderbilt, Alvin Sargent, and Steve Kloves from a story by Vanderbilt, it is a reboot of the Spider-Man film series. It stars Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Campbell Scott, Irrfan Khan, Martin Sheen, and Sally Field.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/The_Amazing_Spider-Man_%28film%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 136
+  },
+  {
+    "id": "the-american-2010",
+    "title": "The American",
+    "year": 2010,
+    "directors": [
+      "Anton Corbijn"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "synopsis": "The American is a 2010 American crime thriller film directed by Anton Corbijn and starring George Clooney, Thekla Reuten, Violante Placido, Irina Björklund, and Paolo Bonacelli. Based on the 1990 novel A Very Private Gentleman by Martin Booth, it was loosely adapted to screenplay by Rowan Joffé. The film was released on September 1, 2010. It received generally positive reviews from critics and grossed $67 million worldwide.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/b6/The_American_2010_poster.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 105
+  },
+  {
+    "id": "the-bourne-ultimatum-2007",
+    "title": "The Bourne Ultimatum",
+    "year": 2007,
+    "directors": [
+      "Paul Greengrass"
+    ],
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "synopsis": "The Bourne Ultimatum is a 2007 American action-thriller film based on Robert Ludlum's character Jason Bourne, a CIA assassin and psychogenic amnesiac portrayed by Matt Damon. Julia Stiles, David Strathairn, Scott Glenn, Paddy Considine, Édgar Ramírez, Albert Finney, and Joan Allen also star. The film was directed by Paul Greengrass and written by Tony Gilroy, Scott Z. Burns, and George Nolfi.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/f/fe/The_Bourne_Ultimatum_%282007_film_poster%29.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 115
+  },
+  {
+    "id": "the-call-of-the-wild-2020",
+    "title": "The Call of the Wild",
+    "year": 2020,
+    "directors": [
+      "Chris Sanders"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "synopsis": "The Call of the Wild is a 2020 American adventure film directed by Chris Sanders from a screenplay by Michael Green. It is based on the 1903 novel of the same name by Jack London. The film stars Harrison Ford, Omar Sy, Dan Stevens, Karen Gillan, and Bradley Whitford. Set during the 1890s Klondike Gold Rush, the film follows a dog named Buck as he is stolen from his home in California and sent to the Yukon, where he befriends an old outdoorsman and begins a life-altering adventure.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/The_Call_of_the_Wild_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 100
+  },
+  {
+    "id": "the-chronicles-of-narnia-prince-caspian-2008",
+    "title": "The Chronicles of Narnia: Prince Caspian",
+    "year": 2008,
+    "directors": [
+      "Andrew Adamson"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "synopsis": "The Chronicles of Narnia: Prince Caspian is a 2008 high fantasy film, directed by Andrew Adamson, and written by Adamson, Christopher Markus and Stephen McFeely. It is based on the 1951 novel Prince Caspian, the second in the children's book series by C. S. Lewis, and the second installment in The Chronicles of Narnia film series. Georgie Henley, Skandar Keynes, William Moseley and Anna Popplewell reprise their roles from the previous film.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Principe_Caspain_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 150
+  },
+  {
+    "id": "the-chronicles-of-narnia-the-voyage-of-the-dawn-treader-2010",
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "year": 2010,
+    "directors": [
+      "Michael Apted"
+    ],
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "synopsis": "The Chronicles of Narnia: The Voyage of the Dawn Treader is a 2010 fantasy adventure film directed by Michael Apted from a screenplay by Christopher Markus, Stephen McFeely, and Michael Petroni, based on the 1952 novel The Voyage of the Dawn Treader, the third published and fifth chronological novel in the children's book series The Chronicles of Narnia by C. S. Lewis. The sequel to The Chronicles of Narnia: Prince Caspian (2008), it is the third installment in The Chronicles of Narnia film series.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/The_Voyage_of_the_Dawn_Treader_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 113
+  },
+  {
+    "id": "the-dark-knight-2008",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "synopsis": "The Dark Knight is a 2008 superhero film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan. Based on the DC Comics superhero Batman, it is the sequel to Batman Begins (2005), and the second installment in The Dark Knight trilogy. The plot follows the vigilante Batman, police lieutenant James Gordon, and district attorney Harvey Dent, who form an alliance to dismantle organized crime in Gotham City.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 152
+  },
+  {
+    "id": "the-dark-knight-rises-2012",
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "synopsis": "The Dark Knight Rises is a 2012 superhero film based on the DC Comics character Batman. Directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan, and the story with David S. Goyer, it is the final installment in Nolan's The Dark Knight trilogy, and the sequel to The Dark Knight (2008). The film stars Christian Bale as Bruce Wayne / Batman, alongside Anne Hathaway, Gary Oldman, Tom Hardy, Morgan Freeman, Marion Cotillard, Joseph Gordon-Levitt, and Michael Caine.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 164
+  },
+  {
+    "id": "the-fast-and-the-furious-2001",
+    "title": "The Fast and the Furious",
+    "year": 2001,
+    "directors": [
+      "Rob Cohen"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "synopsis": "The Fast and the Furious is a 2001 American action film directed by Rob Cohen, and written by Gary Scott Thompson, Erik Bergquist, and David Ayer, based on the 1998 Vibe magazine article \"Racer X\" by Ken Li. The first installment in the Fast & Furious franchise, it stars Paul Walker, Vin Diesel, Michelle Rodriguez, Jordana Brewster, Rick Yune, Chad Lindberg, Johnny Strong, and Ted Levine.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/54/Fast_and_the_furious_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 106
+  },
+  {
+    "id": "the-green-hornet-2011",
+    "title": "The Green Hornet",
+    "year": 2011,
+    "directors": [
+      "Michel Gondry"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "synopsis": "The Green Hornet is a 2011 American superhero film directed by Michel Gondry from a screenplay by Seth Rogen and Evan Goldberg. Rogen stars in the film as the Green Hornet, a character created by George W. Trendle and Fran Striker in 1936. Jay Chou also stars as his sidekick Kato, alongside Christoph Waltz, Cameron Diaz, Edward James Olmos, David Harbour, and Tom Wilkinson.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/The_Green_Hornet_Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 119
+  },
+  {
+    "id": "the-hitchhiker-s-guide-to-the-galaxy-2005",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "year": 2005,
+    "directors": [
+      "Garth Jennings"
+    ],
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "synopsis": "The Hitchhiker's Guide to the Galaxy is a 2005 science fiction comedy film directed by Garth Jennings, based upon the Hitchhiker's Guide to the Galaxy series created by Douglas Adams. It stars Martin Freeman, Sam Rockwell, Yasiin Bey (credited as Mos Def), Zooey Deschanel, Bill Nighy, Anna Chancellor, and John Malkovich, and the voices of Stephen Fry, Helen Mirren, Richard Griffiths, Thomas Lennon",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Hitchhikers_guide_to_the_galaxy.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 109
+  },
+  {
+    "id": "the-hunger-games-2012",
+    "title": "The Hunger Games",
+    "year": 2012,
+    "directors": [
+      "Gary Ross"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "The Hunger Games is a 2012 American dystopian film directed by Gary Ross, who co-wrote the screenplay with Suzanne Collins and Billy Ray, based on the 2008 novel of the same name by Collins. It is the first installment in The Hunger Games film series. The film stars Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks, Lenny Kravitz, Stanley Tucci, and Donald Sutherland.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 142
+  },
+  {
+    "id": "the-hunger-games-mockingjay-part-1-2014",
+    "title": "The Hunger Games: Mockingjay – Part 1",
+    "year": 2014,
+    "directors": [
+      "Francis Lawrence"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "The Hunger Games: Mockingjay – Part 1 is a 2014 American dystopian film directed by Francis Lawrence from a screenplay by Peter Craig and Danny Strong, based on the 2010 novel Mockingjay by Suzanne Collins. The sequel to The Hunger Games: Catching Fire (2013), it is the third installment in The Hunger Games film series. The film stars Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks, Julianne Moore, Philip Seymour Hoffman, Jeffrey Wright, Stanley Tucci, Donald Sutherland and Sam Claflin.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/63/MockingjayPart1Poster3.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 123
+  },
+  {
+    "id": "the-hunger-games-mockingjay-part-2-2015",
+    "title": "The Hunger Games: Mockingjay – Part 2",
+    "year": 2015,
+    "directors": [
+      "Francis Lawrence"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "The Hunger Games: Mockingjay – Part 2 is a 2015 American dystopian film directed by Francis Lawrence from a screenplay by Peter Craig and Danny Strong, based on the 2010 novel Mockingjay by Suzanne Collins. The sequel to The Hunger Games: Mockingjay – Part 1 (2014), it is the fourth installment in The Hunger Games film series and the final installment of the original series.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/9d/Mockingjay_Part_2_Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 137
+  },
+  {
+    "id": "the-incredibles-2004",
+    "title": "The Incredibles",
+    "year": 2004,
+    "directors": [
+      "Brad Bird"
+    ],
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "synopsis": "The Incredibles is a 2004 American animated superhero film written and directed by Brad Bird. Produced by Pixar Animation Studios for Walt Disney Pictures, it stars the voices of Craig T. Nelson, Holly Hunter, Sarah Vowell, Spencer Fox, Jason Lee, Samuel L.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/27/The_Incredibles_%282004_animated_feature_film%29.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 115
+  },
+  {
+    "id": "the-kingdom-2007",
+    "title": "The Kingdom",
+    "year": 2007,
+    "directors": [
+      "Peter Berg"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "synopsis": "An FBI team investigates a terrorist bombing in Saudi Arabia amid political and cultural tensions.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/TheKingdom_Theatrical1sht.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 110
+  },
+  {
+    "id": "the-lorax-2012",
+    "title": "The Lorax",
+    "year": 2012,
+    "directors": [
+      "Chris Renaud"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "The Lorax (also known as Dr. Seuss' The Lorax) is a 2012 American animated musical fantasy comedy film based on the 1971 children's book by Dr. Seuss. Produced by Universal Pictures and Illumination Entertainment, the film was directed by Chris Renaud and written by Cinco Paul and Ken Daurio. It stars the voices of Danny DeVito, Ed Helms, Zac Efron, Taylor Swift, and Betty White. The film builds on the book by expanding the story of the Lorax and Ted, the previously unnamed boy who visits the Once-ler, and provides an extended ending.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/b5/Lorax_teaser_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 86
+  },
+  {
+    "id": "the-mummy-1999",
+    "title": "The Mummy",
+    "year": 1999,
+    "directors": [
+      "Stephen Sommers"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "The Mummy is a 1999 American action-adventure film written and directed by Stephen Sommers, and starring Brendan Fraser, Rachel Weisz, John Hannah, and Arnold Vosloo. A loose remake of the 1932 film of the same name, The Mummy follows adventurer and treasure hunter Rick O'Connell (Fraser) as he travels to Hamunaptra, the City of the Dead, with librarian Evelyn Carnahan (Weisz) and her older brother Jonathan (Hannah), where they accidentally awaken Imhotep (Vosloo), a cursed high priest with supernatural powers.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/The_mummy.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 125
+  },
+  {
+    "id": "the-prestige-2006",
+    "title": "The Prestige",
+    "year": 2006,
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "synopsis": "The Prestige is a 2006 science fiction psychological thriller film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan Nolan, based on the 1995 novel by Christopher Priest. Set in Victorian London, the film stars Hugh Jackman and Christian Bale as stage magicians who compete to create a superior teleportation illusion. The supporting cast includes Michael Caine, Scarlett Johansson, Rebecca Hall, Andy Serkis, and David Bowie as inventor Nikola Tesla.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 130
+  },
+  {
+    "id": "the-sitter-2011",
+    "title": "The Sitter",
+    "year": 2011,
+    "directors": [
+      "David Gordon Green"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "synopsis": "The Sitter is a 2011 American movie directed by David Gordon Green and written by Brian Gatewood and Alessandro Tanaka. The film follows a slacker college student (played by Jonah Hill) who, after being suspended, is forced by his mother to fill in for a babysitter that called in sick. During this time, he takes his charges along for his extensive criminal escapades. The film is a Michael De Luca Productions and 20th Century Fox joint venture, distributed by 20th Century Fox.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/The_Sitter_Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 81
+  },
+  {
+    "id": "the-sorcerer-s-apprentice-2010",
+    "title": "The Sorcerer's Apprentice",
+    "year": 2010,
+    "directors": [
+      "Jon Turteltaub"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "The Sorcerer's Apprentice is a 2010 American fantasy film produced by Walt Disney Pictures and starring Nicolas Cage and Jay Baruchel. Cage plays a sorcerer who recruits a physics student, portrayed by Baruchel, as his apprentice. The film is set primarily in New York City and follows the apprentice's involvement in a conflict between rival sorcerers. It is directed by Jon Turteltaub, from a screenplay by Matt Lopez and the writing team of Doug Miro and Carlo Bernard, and a screen story by Lopez, Lawrence Konner, and Mark Rosenthal.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/Sorcerers_apprentice_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 109
+  },
+  {
+    "id": "the-tourist-2010",
+    "title": "The Tourist",
+    "year": 2010,
+    "directors": [
+      "Florian Henckel von Donnersmarck"
+    ],
+    "genres": [
+      "Action",
+      "Romance",
+      "Thriller"
+    ],
+    "synopsis": "The Tourist is a 2010 American romantic thriller film co-written and directed by Florian Henckel von Donnersmarck and starring Angelina Jolie, Johnny Depp, Paul Bettany, and Timothy Dalton, and follows an American teacher who is approached by a mysterious woman until he realized that the mobster is following him, whom they believed to be a man who stole money from them. It is a remake of the 2005 French film Anthony Zimmer.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/28/The_Tourist_Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 103
+  },
+  {
+    "id": "the-unbearable-weight-of-massive-talent-2022",
+    "title": "The Unbearable Weight of Massive Talent",
+    "year": 2022,
+    "directors": [
+      "Tom Gormican"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "synopsis": "The Unbearable Weight of Massive Talent is a 2022 American action comedy film directed by Tom Gormican, who co-wrote the screenplay with Kevin Etten. It stars Nicolas Cage as a fictionalized version of himself, along with a supporting cast including Pedro Pascal, Sharon Horgan, Ike Barinholtz, Alessandra Mastronardi, Jacob Scipio, Neil Patrick Harris, Tiffany Haddish and Caroline Boulton. The film premiered at South by Southwest on March 12, 2022, and was released in the United States on April 22, 2022, by Lionsgate.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/87/The_Unbearable_Weight_of_Massive_Talent.jpg",
+    "format": "4K UHD",
+    "runtimeMinutes": 107
+  },
+  {
+    "id": "the-wolf-of-wall-street-2013",
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "synopsis": "The Wolf of Wall Street is a 2013 American epic biographical dark comedy crime film co-produced and directed by Martin Scorsese, written by Terence Winter, and based on Jordan Belfort's 2007 memoir. It loosely recounts Belfort's career as a stockbroker in New York City and how his firm, Stratton Oakmont, engaged in rampant corruption and fraud on Wall Street, leading to his downfall.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Wolf_of_Wall_Street_%282013%29.png",
+    "format": "DVD",
+    "runtimeMinutes": 180
+  },
+  {
+    "id": "this-is-40-2012",
+    "title": "This Is 40",
+    "year": 2012,
+    "directors": [
+      "Judd Apatow"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "synopsis": "This Is 40 is a 2012 American romantic comedy-drama film written and directed by Judd Apatow and starring Paul Rudd and Leslie Mann. A \"sort-of sequel\" to Apatow's film Knocked Up (2007), its plot centers on married couple Pete and Debbie, whose stressful relationship is compounded by each turning 40. This Is 40 was released in the United States on December 21, 2012.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/This_is_40.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 134
+  },
+  {
+    "id": "this-is-the-end-2013",
+    "title": "This Is the End",
+    "year": 2013,
+    "directors": [
+      "Seth Rogen",
+      "Evan Goldberg"
+    ],
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "synopsis": "This Is the End is a 2013 American apocalyptic comedy film written, directed and produced by Seth Rogen and Evan Goldberg in their directorial debuts. It is a feature-length film adaptation of Rogen and Goldberg's 2007 short film Jay and Seth Versus the Apocalypse, which was directed by Jason Stone, who serves as an executive producer on the film.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/This-is-the-End-Film-Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 107
+  },
+  {
+    "id": "thor-2011",
+    "title": "Thor",
+    "year": 2011,
+    "directors": [
+      "Kenneth Branagh"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "Thor is a 2011 American superhero film based on the Marvel Comics character Thor. Produced by Marvel Studios and distributed by Paramount Pictures, it is the fourth film in the Marvel Cinematic Universe (MCU).",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/95/Thor_%28film%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 115
+  },
+  {
+    "id": "venom-2018",
+    "title": "Venom",
+    "year": 2018,
+    "directors": [
+      "Ruben Fleischer"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Venom is a 2018 American superhero film based on the Marvel Comics character Eddie Brock / Venom. The first film in Sony's Spider-Man Universe (SSU), it was directed by Ruben Fleischer from a screenplay by Jeff Pinkner, Scott Rosenberg, and Kelly Marcel. Tom Hardy stars as Eddie Brock and Venom, alongside Michelle Williams, Riz Ahmed, Scott Haze, and Reid Scott. In the film, Eddie, a struggling journalist, gains superpowers after becoming the host of Venom, an alien symbiote whose species plans to invade Earth.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/10/Venom_%282018_film%29_poster.png",
+    "format": "4K UHD",
+    "runtimeMinutes": 112
+  },
+  {
+    "id": "vice-2018",
+    "title": "Vice",
+    "year": 2018,
+    "directors": [
+      "Adam McKay"
+    ],
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "synopsis": "Vice is a 2018 American biographical black comedy film based on the life of Dick Cheney, the 46th vice president of the United States. Directed, written, and produced by Adam McKay, it stars Christian Bale as Cheney. The supporting cast includes Amy Adams, Steve Carell, Sam Rockwell, Justin Kirk, Tyler Perry, Alison Pill, Lily Rabe, and Jesse Plemons. The film follows Cheney on his path to becoming the most powerful vice president in American history, presented with political satire elements.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/58/Vice_%282018_film_poster%29.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 132
+  },
+  {
+    "id": "wanted-2008",
+    "title": "Wanted",
+    "year": 2008,
+    "directors": [
+      "Timur Bekmambetov"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "synopsis": "Wanted is a 2008 American action thriller film directed by Timur Bekmambetov and written by Michael Brandt, Derek Haas, and Chris Morgan, loosely based on the 2003–05 comic book miniseries by Mark Millar and J. G. Jones. The film stars James McAvoy, Morgan Freeman, Terence Stamp, Thomas Kretschmann, Common, and Angelina Jolie. The film revolves around Wesley Allan Gibson, who decides to join the Fraternity, a secret society of assassins, after learning that his father was a member of the Fraternity.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/Wanted_film_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 110
+  },
+  {
+    "id": "war-dogs-2016",
+    "title": "War Dogs",
+    "year": 2016,
+    "directors": [
+      "Todd Phillips"
+    ],
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "synopsis": "War Dogs is a 2016 American black comedy crime film directed by Todd Phillips, and written by Phillips, Jason Smilovic and Stephen Chin, based on the 2011 Rolling Stone article \"Arms and the Dudes\" by Guy Lawson (which was later expanded into a book, also titled Arms and the Dudes). It stars Jonah Hill, Miles Teller, Ana de Armas, and Bradley Cooper, who also produced. The film follows two arms dealers, Efraim Diveroli and David Packouz, who receive a U.S.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/War_Dogs_2016_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 114
+  },
+  {
+    "id": "watchmen-2009",
+    "title": "Watchmen",
+    "year": 2009,
+    "directors": [
+      "Zack Snyder"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "synopsis": "In an alternate 1985, retired vigilantes investigate a former colleague's murder as nuclear war looms. This release is the Director's Cut.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Watchmen_film_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 186
+  },
+  {
+    "id": "water-for-elephants-2011",
+    "title": "Water for Elephants",
+    "year": 2011,
+    "directors": [
+      "Francis Lawrence"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "synopsis": "Water for Elephants is a 2011 American period romantic drama film directed by Francis Lawrence and written by Richard LaGravenese, based on the 2006 novel by Sara Gruen. The film stars Reese Witherspoon, Robert Pattinson, Christoph Waltz, and Hal Holbrook. The film was released in the United States on April 22, 2011. It received mixed reviews from film critics and grossed $117 million worldwide on a budget of $38 million.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/60/Water_for_Elephants_Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 120
+  },
+  {
+    "id": "world-war-z-2013",
+    "title": "World War Z",
+    "year": 2013,
+    "directors": [
+      "Marc Forster"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "synopsis": "World War Z is a 2013 American disaster action horror film starring Brad Pitt as Gerry Lane, a former United Nations investigator who travels the world seeking a solution for a sudden zombie apocalypse. Inspired by the 2006 novel by Max Brooks, the film was directed by Marc Forster, with a screenplay by Matthew Michael Carnahan, Drew Goddard, and Damon Lindelof, from a story by Carnahan and J. Michael Straczynski. The supporting cast includes Mireille Enos, James Badge Dale, Peter Capaldi, Ruth Negga, and Matthew Fox.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/dc/World_War_Z_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 116
+  },
+  {
+    "id": "yes-man-2008",
+    "title": "Yes Man",
+    "year": 2008,
+    "directors": [
+      "Peyton Reed"
+    ],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "synopsis": "Yes Man is a 2008 romantic comedy film directed by Peyton Reed, written by Nicholas Stoller, Jarrad Paul and Christofer Tufton, and starring Jim Carrey. The film is based loosely on the 2005 memoir of the same name by the British humorist Danny Wallace, who also makes a cameo appearance in the film. Production for the film began in Los Angeles in October 2007. It was released by Warner Bros. Pictures on December 19, 2008, in the United States and was then released in the United Kingdom on December 26, 2008.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/71/YesMan2008poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 104
+  },
+  {
+    "id": "zero-dark-thirty-2012",
+    "title": "Zero Dark Thirty",
+    "year": 2012,
+    "directors": [
+      "Kathryn Bigelow"
+    ],
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "synopsis": "Zero Dark Thirty is a 2012 American political action thriller film directed by Kathryn Bigelow and written by Mark Boal. Produced by Boal, Bigelow, and Megan Ellison, and independently financed by Ellison's Annapurna Pictures, the film dramatizes the nearly decade-long international manhunt for Osama bin Laden, leader of the terrorist network al-Qaeda, after the September 11 attacks, which culminates in the discovery of his compound in Pakistan and the U.S. military raid where bin Laden was killed on May 2, 2011.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/77/ZeroDarkThirty2012Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 157
+  },
+  {
+    "id": "zombieland-2009",
+    "title": "Zombieland",
+    "year": 2009,
+    "directors": [
+      "Ruben Fleischer"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "synopsis": "Zombieland is a 2009 American post-apocalyptic zombie comedy film directed by Ruben Fleischer, in his directorial debut, and written by Rhett Reese and Paul Wernick. It stars Woody Harrelson, Jesse Eisenberg, Emma Stone, Abigail Breslin and Bill Murray. In the film, four survivors of a zombie apocalypse, Tallahassee (Harrelson), Columbus (Eisenberg), Wichita (Stone) and Little Rock (Breslin) make their way on an extended cross-country road trip to find a sanctuary free from a virus that turns people into zombies.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/a/a3/Zombieland-poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 88
+  },
+  {
+    "id": "zootopia-2016",
+    "title": "Zootopia",
+    "year": 2016,
+    "directors": [
+      "Byron Howard",
+      "Rich Moore"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Zootopia (titled Zootropolis in some markets) is a 2016 American animated buddy cop comedy film produced by Walt Disney Animation Studios. Directed by Byron Howard and Rich Moore and written by Jared Bush and Phil Johnston, it is the first film in the Zootopia franchise. It features the voices of Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, Nate Torrence, Bonnie Hunt, Don Lake, Tommy Chong, J. K. Simmons, Octavia Spencer, Alan Tudyk, and Shakira.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/Zootopia_%28movie_poster%29.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 108
   }
 ]
