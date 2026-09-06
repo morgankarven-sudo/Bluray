@@ -1,0 +1,98 @@
+[
+  {
+    "id": "sample-casablanca",
+    "title": "Casablanca",
+    "year": 1942,
+    "directors": ["Michael Curtiz"],
+    "genres": ["Drama", "Romance", "War"],
+    "runtimeMinutes": 102,
+    "synopsis": "In wartime Morocco, a cynical nightclub owner must choose between love and virtue when his former flame and her resistance-leader husband walk into his café.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CasablancaPoster-Gold.jpg",
+    "format": "Blu-ray",
+    "sample": true
+  },
+  {
+    "id": "sample-metropolis",
+    "title": "Metropolis",
+    "year": 1927,
+    "directors": ["Fritz Lang"],
+    "genres": ["Sci-Fi", "Drama"],
+    "runtimeMinutes": 153,
+    "synopsis": "In a towering futuristic city, the son of a powerful industrialist discovers the underground world of laborers and joins a prophetic struggle for solidarity.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Boris_Bilinski_-_Filmplakat_f%C3%BCr_Metropolis.jpg",
+    "format": "Blu-ray",
+    "sample": true
+  },
+  {
+    "id": "sample-nosferatu",
+    "title": "Nosferatu",
+    "year": 1922,
+    "directors": ["F. W. Murnau"],
+    "genres": ["Horror", "Silent"],
+    "runtimeMinutes": 94,
+    "synopsis": "A real-estate clerk travels to Transylvania and unwittingly invites a vampire plague into his quiet coastal town.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Max_Schreck_as_Count_Orlok_in_Nosferatu_%E2%80%93_Eine_Symphonie_des_Grauens_%281922%29.jpg",
+    "format": "Blu-ray",
+    "sample": true
+  },
+  {
+    "id": "sample-caligari",
+    "title": "The Cabinet of Dr. Caligari",
+    "year": 1920,
+    "directors": ["Robert Wiene"],
+    "genres": ["Horror", "Thriller", "Silent"],
+    "runtimeMinutes": 74,
+    "synopsis": "A mysterious hypnotist and his somnambulist sideshow act may be connected to a series of murders in a twisted expressionist nightmare.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Das_Cabinet_des_Dr._Caligari.JPG",
+    "format": "Blu-ray",
+    "sample": true
+  },
+  {
+    "id": "sample-night-living-dead",
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "directors": ["George A. Romero"],
+    "genres": ["Horror"],
+    "runtimeMinutes": 96,
+    "synopsis": "Strangers barricade themselves in a rural farmhouse as the recently dead rise and hunger for the living.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Night_Of_The_Living_Dead_%281968%29_-_Poster.jpg",
+    "format": "Blu-ray",
+    "sample": true
+  },
+  {
+    "id": "sample-plan9",
+    "title": "Plan 9 from Outer Space",
+    "year": 1959,
+    "directors": ["Ed Wood"],
+    "genres": ["Sci-Fi", "Horror", "Comedy"],
+    "runtimeMinutes": 79,
+    "synopsis": "Aliens resurrect the dead to stop humanity from inventing a doomsday weapon, in one of cinema’s most infamous cult adventures.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Plan_nine_from_outer_space.jpg",
+    "format": "Blu-ray",
+    "sample": true
+  },
+  {
+    "id": "sample-his-girl-friday",
+    "title": "His Girl Friday",
+    "year": 1940,
+    "directors": ["Howard Hawks"],
+    "genres": ["Comedy", "Romance"],
+    "runtimeMinutes": 92,
+    "synopsis": "A scheming newspaper editor races the clock to win back his ex-wife reporter before she leaves town—and the scoop of a lifetime.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/His_Girl_Friday_%281940_poster%29.jpg",
+    "format": "Blu-ray",
+    "sample": true
+  },
+  {
+    "id": "sample-charade",
+    "title": "Charade",
+    "year": 1963,
+    "directors": ["Stanley Donen"],
+    "genres": ["Mystery", "Romance", "Comedy"],
+    "runtimeMinutes": 113,
+    "synopsis": "A widow in Paris is swept into a stylish chase involving stolen money, impostors, and a charming stranger who may not be who he seems.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Charade_%281963_poster%29.jpg",
+    "format": "Blu-ray",
+    "sample": true
+  }
+]
