@@ -110,6 +110,23 @@
     "runtimeMinutes": 119
   },
   {
+    "id": "apollo-13-1995",
+    "title": "Apollo 13",
+    "year": 1995,
+    "directors": [
+      "Ron Howard"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "synopsis": "Apollo 13 is a 1995 American docudrama film directed by Ron Howard and starring Tom Hanks, Kevin Bacon, Bill Paxton, Gary Sinise, Ed Harris and Kathleen Quinlan. The screenplay by William Broyles Jr. and Al Reinert dramatizes the aborted 1970 Apollo 13 lunar mission and is an adaptation of the 1994 book Lost Moon: The Perilous Voyage of Apollo 13, by astronaut Jim Lovell and Jeffrey Kluger.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Apollo_thirteen_movie.jpg",
+    "format": "4K UHD",
+    "runtimeMinutes": 140
+  },
+  {
     "id": "arrow-the-complete-first-season-2012",
     "title": "Arrow: The Complete First Season",
     "year": 2012,
@@ -140,6 +157,23 @@
     "synopsis": "Arrow is an American superhero television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg based on the DC Comics character Green Arrow, a costumed crime-fighter created by Mort Weisinger and George Papp, and is the first series of the Arrowverse, sharing continuity with other related television series. The series premiered in the United States on The CW on October 10, 2012, and ran for eight seasons until January 28, 2020. Arrow was primarily filmed in Vancouver, British Columbia, Canada.",
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Arrow_Intertitle.png",
     "format": "Blu-ray"
+  },
+  {
+    "id": "avatar-2009",
+    "title": "Avatar",
+    "year": 2009,
+    "directors": [
+      "James Cameron"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Avatar is a 2009 epic planetary romance film written and directed by James Cameron, who also produced it with his Titanic co-producer Jon Landau. The ensemble cast includes Sam Worthington, Zoe Saldaña, Stephen Lang, Michelle Rodriguez, and Sigourney Weaver. It is the first installment in the Avatar film series. It is set in 2154, when humans are colonizing Pandora, a lush habitable exomoon, in order to mine the valuable mineral unobtanium. The expansion of the mining colony threatens the existence of a local tribe of Na'vi, a humanoid species indigenous to Pandora. The title of the film refers to an \"avatar\", a genetically engineered Na'vi body remotely operated from a human's brain.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 162
   },
   {
     "id": "avengers-endgame-2019",
@@ -192,6 +226,55 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/Beowulf_%26_Grendel_%282005_film%29_poster.jpg",
     "format": "Blu-ray",
     "runtimeMinutes": 103
+  },
+  {
+    "id": "brave-2012",
+    "title": "Brave",
+    "year": 2012,
+    "directors": [
+      "Mark Andrews",
+      "Brenda Chapman"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "Brave is a 2012 American animated fantasy adventure film produced by Pixar Animation Studios for Walt Disney Pictures. Directed by Mark Andrews and Brenda Chapman, and written by Andrews, Chapman, Steve Purcell who also has a voice role in the film, and Irene Mecchi, it stars the voices of Kelly Macdonald, Emma Thompson, Billy Connolly, Julie Walters, Robbie Coltrane, Kevin McKidd, and Craig Ferguson.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/Brave_Poster.jpg",
+    "format": "Blu-ray"
+  },
+  {
+    "id": "cars-2006",
+    "title": "Cars",
+    "year": 2006,
+    "directors": [
+      "John Lasseter"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Cars is a 2006 American animated sports comedy film produced by Pixar Animation Studios for Walt Disney Pictures. Directed by John Lasseter, who co-wrote it with Joe Ranft, Dan Fogelman, Kiel Murray, Phil Lorin and Jorgen Klubien, the film stars Paul Newman and Owen Wilson, with an ensemble voice cast consisting of Bonnie Hunt, Larry the Cable Guy, Tony Shalhoub, Cheech Marin, Michael Wallis, George Carlin, Paul Dooley, Jenifer Lewis, Guido Quaroni, Michael Keaton, Katherine Helmond, John Ratzenberger, and Richard Petty.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/34/Cars_2006.jpg",
+    "format": "Blu-ray"
+  },
+  {
+    "id": "casino-1995",
+    "title": "Casino",
+    "year": 1995,
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "synopsis": "Casino is a 1995 epic gangster film directed by Martin Scorsese and adapted by Scorsese and Nicholas Pileggi from the latter's nonfiction book Casino: Love and Honor in Las Vegas. It stars Robert De Niro, Sharon Stone, Joe Pesci, Don Rickles, Kevin Pollak, Frank Vincent and James Woods. The film was the eighth collaboration between director Scorsese and De Niro.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/cb/Casino_%28Martins_Scorsese_film%29.png",
+    "format": "4K UHD",
+    "runtimeMinutes": 178
   },
   {
     "id": "cedar-rapids-2011",
@@ -360,6 +443,23 @@
     "runtimeMinutes": 165
   },
   {
+    "id": "dolittle-2020",
+    "title": "Dolittle",
+    "year": 2020,
+    "directors": [
+      "Stephen Gaghan"
+    ],
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "synopsis": "Dolittle is a 2020 fantasy adventure film directed by Stephen Gaghan from a screenplay by Gaghan, Dan Gregor, and Doug Mand, based on a story by Thomas Shepherd. Dolittle is based on the title character created by Hugh Lofting and is primarily inspired by the author's second Doctor Dolittle book, The Voyages of Doctor Dolittle (1922). Robert Downey Jr. stars as the title character, alongside Antonio Banderas, Michael Sheen, and Harry Collett in live-action roles, with Emma Thompson, Rami Malek, John Cena, Kumail Nanjiani, Octavia Spencer, Tom Holland, Craig Robinson, Ralph Fiennes, Selena Gomez, and Marion Cotillard voicing an array of creatures.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/1f/Dolittle_%282020_film_poster%29.png",
+    "format": "4K UHD",
+    "runtimeMinutes": 101
+  },
+  {
     "id": "dumbo-1941",
     "title": "Dumbo",
     "year": 1941,
@@ -496,6 +596,39 @@
     "runtimeMinutes": 98
   },
   {
+    "id": "finding-dory-2016",
+    "title": "Finding Dory",
+    "year": 2016,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Finding Dory is a 2016 American animated adventure comedy film produced by Pixar Animation Studios for Walt Disney Pictures. It was directed by Andrew Stanton, and written by Stanton and Victoria Strouse. The film is both a sequel and spin-off following the events of Finding Nemo (2003). Ellen DeGeneres and Albert Brooks reprise their roles from the first film, with Ed O'Neill, Kaitlin Olson, Hayden Rolence, Ty Burrell, Diane Keaton and Eugene Levy joining the cast. The film focuses on the amnesiac fish Dory (DeGeneres), who journeys to be reunited with her parents.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/3e/Finding_Dory.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 97
+  },
+  {
+    "id": "finding-nemo-2003",
+    "title": "Finding Nemo",
+    "year": 2003,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Finding Nemo is a 2003 American animated comedy-drama film directed by Andrew Stanton, who co-wrote it with Bob Peterson and David Reynolds. Produced by Pixar Animation Studios for Walt Disney Pictures, the film stars the voices of Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe, and Geoffrey Rush. It tells the story of an overprotective clownfish named Marlin (Brooks) who, along with a forgetful regal blue tang named Dory (DeGeneres), searches for his missing son Nemo (Gould). Along the way, Marlin learns to take risks and comes to terms with Nemo taking care of himself.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+    "format": "Blu-ray"
+  },
+  {
     "id": "frozen-2013",
     "title": "Frozen",
     "year": 2013,
@@ -512,6 +645,23 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg",
     "format": "Blu-ray",
     "runtimeMinutes": 102
+  },
+  {
+    "id": "fury-2014",
+    "title": "Fury",
+    "year": 2014,
+    "directors": [
+      "David Ayer"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "synopsis": "Fury is a 2014 American war film written, directed, and co-produced by David Ayer. It stars Brad Pitt with Shia LaBeouf, Logan Lerman, Michael Peña, and Jon Bernthal as members of an American tank crew fighting in Nazi Germany during the final weeks of the European theater of World War II. Ayer was influenced by the service of military veterans in his family and by reading books such as Belton Y. Cooper's Death Traps, a 1998 memoir that underscores the high casualty rates suffered by American tank crews in combat against their better-equipped German counterparts.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/Fury_2014_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 134
   },
   {
     "id": "get-smart-2008",
@@ -613,6 +763,23 @@
     "runtimeMinutes": 87
   },
   {
+    "id": "guardians-of-the-galaxy-2014",
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "directors": [
+      "James Gunn"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Guardians of the Galaxy is a 2014 American superhero film based on the Marvel Comics superhero team the Guardians of the Galaxy. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 10th film in the Marvel Cinematic Universe (MCU). Directed by James Gunn, who wrote the screenplay with Nicole Perlman, it features an ensemble cast including Chris Pratt, Zoe Saldaña, Dave Bautista, Vin Diesel, and Bradley Cooper as the titular Guardians, along with Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou, John C. Reilly, Glenn Close, and Benicio del Toro. In the film, Peter Quill (Pratt) and a group of extraterrestrial criminals go on the run after stealing a powerful artifact.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/33/Guardians_of_the_Galaxy_%28film%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 121
+  },
+  {
     "id": "hancock-2008",
     "title": "Hancock",
     "year": 2008,
@@ -628,6 +795,22 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c9/Hancockposter.jpg",
     "format": "Blu-ray",
     "runtimeMinutes": 92
+  },
+  {
+    "id": "harry-potter-8-film-collection-2021",
+    "title": "Harry Potter 8-Film Collection",
+    "year": 2021,
+    "directors": [
+      "Various"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ],
+    "synopsis": "Harry Potter 8-Film Collection is a complete box set of the eight films adapting J. K. Rowling's Harry Potter novels, from Harry Potter and the Philosopher's Stone (2001) through Harry Potter and the Deathly Hallows – Part 2 (2011). This Ultra HD Blu-ray set presents the full saga in 4K UHD.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg/330px-Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg",
+    "format": "4K UHD"
   },
   {
     "id": "hellboy-2004",
@@ -762,6 +945,23 @@
     "runtimeMinutes": 118
   },
   {
+    "id": "inside-out-2015",
+    "title": "Inside Out",
+    "year": 2015,
+    "directors": [
+      "Pete Docter"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Inside Out is a 2015 American animated coming-of-age film directed by Pete Docter who co-wrote it with Meg LeFauve and Josh Cooley. Produced by Pixar Animation Studios for Walt Disney Pictures, the film stars the voices of Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader, Lewis Black, Mindy Kaling, Kaitlyn Dias, Diane Lane, and Kyle MacLachlan. Inside Out follows the inner workings of the mind of Riley (Dias), a young girl who adapts to her family's relocation as five personified emotions administer her thoughts and actions.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/0a/Inside_Out_%282015_film%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 95
+  },
+  {
     "id": "iron-man-2008",
     "title": "Iron Man",
     "year": 2008,
@@ -863,6 +1063,24 @@
     "runtimeMinutes": 123
   },
   {
+    "id": "john-wick-2014",
+    "title": "John Wick",
+    "year": 2014,
+    "directors": [
+      "Chad Stahelski",
+      "David Leitch"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "synopsis": "John Wick is a 2014 American action thriller film directed by Chad Stahelski and written by Derek Kolstad. Keanu Reeves stars as John Wick, a legendary hitman who comes out of retirement to seek revenge against the men who killed his dog, a final gift from his recently deceased wife. The film also stars Michael Nyqvist, Alfie Allen, Adrianne Palicki, Bridget Moynahan, Dean Winters, Ian McShane, John Leguizamo, and Willem Dafoe.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 101
+  },
+  {
     "id": "journey-to-the-center-of-the-earth-2008",
     "title": "Journey to the Center of the Earth",
     "year": 2008,
@@ -947,6 +1165,56 @@
     "runtimeMinutes": 158
   },
   {
+    "id": "life-of-pi-2012",
+    "title": "Life of Pi",
+    "year": 2012,
+    "directors": [
+      "Ang Lee"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "synopsis": "Life of Pi is a 2012 adventure-drama film directed and produced by Ang Lee and written by David Magee. Based on Yann Martel's 2001 novel, it stars Suraj Sharma in his film debut, Irrfan Khan, Tabu, Rafe Spall, Gérard Depardieu and Adil Hussain in lead roles. The storyline revolves around Pi Patel, a 16-year old Indian boy, and a Bengal tiger named Richard Parker, who are both stranded on a lifeboat for 227 days after a shipwreck.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/Life_of_Pi_2012_Poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 127
+  },
+  {
+    "id": "lilo-and-stitch-2002",
+    "title": "Lilo & Stitch",
+    "year": 2002,
+    "directors": [
+      "Chris Sanders",
+      "Dean DeBlois"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Lilo & Stitch is a 2002 American animated science fiction comedy-drama film written and directed by Chris Sanders and Dean DeBlois, based on an original story created by Sanders. It was produced by Walt Disney Feature Animation, and stars Daveigh Chase and Sanders as the voices of the title characters, alongside Tia Carrere, David Ogden Stiers, Kevin McDonald, Ving Rhames, Jason Scott Lee, Zoe Caldwell, and Kevin Michael Richardson in supporting roles. It was the second installment in three Walt Disney Animation Studios animated feature films produced primarily at the Florida animation studio in Disney-MGM Studios at Walt Disney World near Orlando, Florida.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/LiloandStitchmovieposter.jpg",
+    "format": "Blu-ray"
+  },
+  {
+    "id": "man-of-steel-2013",
+    "title": "Man of Steel",
+    "year": 2013,
+    "directors": [
+      "Zack Snyder"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Man of Steel is a 2013 superhero film based on the DC Comics character Superman. Directed by Zack Snyder and written by David S. Goyer, who developed the story with producer Christopher Nolan, it is the first film in the DC Extended Universe (DCEU), and a reboot of the Superman film series, depicting the character's origin story. Henry Cavill stars as Superman, alongside Amy Adams, Michael Shannon, Kevin Costner, Diane Lane, Laurence Fishburne, and Russell Crowe. In the film, Clark Kent learns that he is a superpowered alien from the planet Krypton and assumes the role of mankind's protector as Superman, making the choice to face General Zod and stop him from destroying humanity.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/50/Man_of_Steel_%28film%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 143
+  },
+  {
     "id": "mission-impossible-ghost-protocol-2011",
     "title": "Mission: Impossible – Ghost Protocol",
     "year": 2011,
@@ -979,6 +1247,23 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Moneyball_Poster.jpg",
     "format": "Blu-ray",
     "runtimeMinutes": 133
+  },
+  {
+    "id": "monsters-university-2013",
+    "title": "Monsters University",
+    "year": 2013,
+    "directors": [
+      "Dan Scanlon"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Monsters University is a 2013 American animated comedy film produced by Pixar Animation Studios for Walt Disney Pictures. A prequel to Monsters, Inc. (2001), it was directed by Dan Scanlon and written by Scanlon and the writing team of Dan Gerson and Robert L. Baird. Randy Newman composed the original score, returning from the first film. The film follows the main characters of Monsters, Inc., James P. \"Sulley\" Sullivan and Mike Wazowski, and their experience in college leading to them becoming best friends. Billy Crystal, John Goodman, Steve Buscemi, Bob Peterson and John Ratzenberger reprise their roles from the first film, while Bonnie Hunt voices a different character. Helen Mirren, Peter Sohn, Joel Murray, Sean Hayes, Dave Foley, Charlie Day and Nathan Fillion join the voice cast.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Monsters_University_poster_3.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 104
   },
   {
     "id": "monsters-vs-aliens-2009",
@@ -1066,6 +1351,40 @@
     "runtimeMinutes": 124
   },
   {
+    "id": "pacific-rim-2013",
+    "title": "Pacific Rim",
+    "year": 2013,
+    "directors": [
+      "Guillermo del Toro"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Pacific Rim is a 2013 American military science fiction and monster film directed by Guillermo del Toro, with a screenplay written by Travis Beacham with del Toro and story written by Beacham. It is the first film in the Pacific Rim franchise. The film stars Charlie Hunnam, Idris Elba, Rinko Kikuchi, Charlie Day, Robert Kazinsky, Max Martini, and Ron Perlman. The film is set in the future, when Earth is at war with the Kaiju, colossal sea monsters which have emerged from an interdimensional portal on the bottom of the Pacific Ocean. To combat the monsters, humanity unites to create the Jaegers, gigantic humanoid mechas, each controlled by two co-pilots whose minds are joined by a mental link called the Drift.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Pacific_Rim_FilmPoster.jpeg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 131
+  },
+  {
+    "id": "pirates-of-the-caribbean-dead-mans-chest-2006",
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "directors": [
+      "Gore Verbinski"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "Pirates of the Caribbean: Dead Man's Chest is a 2006 American swashbuckler film directed by Gore Verbinski, written by Ted Elliott and Terry Rossio, and produced by Jerry Bruckheimer. The sequel to Pirates of the Caribbean: The Curse of the Black Pearl (2003), it is the second installment in the Pirates of the Caribbean film series. It is set a year after the first film and follows Captain Jack Sparrow who owes a debt to Davy Jones, the ghastly captain of the Flying Dutchman, and being marked for death and pursued by the Kraken. Meanwhile, the wedding of Will Turner and Elizabeth Swann is interrupted by Lord Cutler Beckett, who wants Turner to acquire Jack's magic compass in a bid to find the Dead Man's Chest.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/Pirates_of_the_caribbean_2_poster_b.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 145
+  },
+  {
     "id": "planes-2013",
     "title": "Planes",
     "year": 2013,
@@ -1150,6 +1469,23 @@
     "runtimeMinutes": 106
   },
   {
+    "id": "rambo-2008",
+    "title": "Rambo",
+    "year": 2008,
+    "directors": [
+      "Sylvester Stallone"
+    ],
+    "genres": [
+      "Action",
+      "Thriller",
+      "War"
+    ],
+    "synopsis": "Rambo is a 2008 action film co-written and directed by Sylvester Stallone. A sequel to Rambo III (1988) and an American-German co-production, it is the fourth installment in the Rambo film series based on the character created by author David Morrell. Stallone stars as John Rambo, who leads a group of mercenaries into Burma to rescue Christian missionaries, who have been kidnapped by a local infantry unit. The film co-stars Julie Benz, Paul Schulze, Matthew Marsden, Graham McTavish, Rey Gallegos, Tim Kang, Jake La Botz, Maung Maung Khin, and Ken Howard. Rambo is dedicated to the memory of Richard Crenna, who had played Colonel Sam Trautman in the previous films and died in 2003.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Rambo_%282008%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 92
+  },
+  {
     "id": "rogue-one-a-star-wars-story-2016",
     "title": "Rogue One: A Star Wars Story",
     "year": 2016,
@@ -1182,6 +1518,23 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Salt_film_theatrical_poster.jpg",
     "format": "Blu-ray",
     "runtimeMinutes": 100
+  },
+  {
+    "id": "secondhand-lions-2003",
+    "title": "Secondhand Lions",
+    "year": 2003,
+    "directors": [
+      "Tim McCanlies"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "synopsis": "Secondhand Lions is a 2003 American comedy-drama film written and directed by Tim McCanlies. It tells the story of an introverted young boy, who is sent to live with his eccentric great uncles on a farm in Texas.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6a/SecondhandLions.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 111
   },
   {
     "id": "sherlock-holmes-2009",
@@ -1320,6 +1673,40 @@
     "runtimeMinutes": 139
   },
   {
+    "id": "star-trek-2009",
+    "title": "Star Trek",
+    "year": 2009,
+    "directors": [
+      "J. J. Abrams"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Star Trek is a 2009 American science fiction action film directed by J. J. Abrams, and written by Roberto Orci and Alex Kurtzman. It is the 11th film in the Star Trek franchise, and is also a reboot that features the main characters of the original Star Trek television series portrayed by a new cast, as the first in the rebooted film series. The film follows James T. Kirk and Spock aboard the USS Enterprise as they combat Nero, a Romulan from their future who threatens the United Federation of Planets. The story takes place in an alternate reality that features both an alternate birth location for James T. Kirk and further alterations in history stemming from the time travel of both Nero and the original series Spock. The alternate reality was created in an attempt to free the film and the franchise from established continuity constraints while simultaneously preserving original story elements.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/29/Startrekposter.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 127
+  },
+  {
+    "id": "star-wars-a-new-hope-1977",
+    "title": "Star Wars: A New Hope",
+    "year": 1977,
+    "directors": [
+      "George Lucas"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Star Wars is a 1977 American epic space opera film written and directed by George Lucas. Produced by Lucasfilm Ltd. and distributed by Twentieth Century-Fox, it is the first film in the Star Wars franchise and the fourth chronological chapter of the \"Skywalker Saga\". Set in a fictional galaxy ruled by the tyrannical Galactic Empire, the film follows a resistance movement called the Rebel Alliance that aims to destroy the Empire's ultimate weapon, the Death Star. When the rebel leader Princess Leia is captured by the Galactic Empire, Luke Skywalker acquires stolen architectural plans for the Death Star and sets out to rescue her while learning the ways of a metaphysical power known as \"the Force\" from the Jedi Master Obi-Wan Kenobi. The film stars Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, Anthony Daniels, Kenny Baker, Peter Mayhew, David Prowse, and James Earl Jones.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg",
+    "format": "DVD",
+    "runtimeMinutes": 121
+  },
+  {
     "id": "star-wars-the-last-jedi-2017",
     "title": "Star Wars: The Last Jedi",
     "year": 2017,
@@ -1436,6 +1823,40 @@
     "runtimeMinutes": 105
   },
   {
+    "id": "the-avengers-2012",
+    "title": "The Avengers",
+    "year": 2012,
+    "directors": [
+      "Joss Whedon"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "Marvel's The Avengers is a 2012 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sixth film in the Marvel Cinematic Universe (MCU). Written and directed by Joss Whedon, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, and Jeremy Renner as the Avengers, alongside Tom Hiddleston, Stellan Skarsgård, and Samuel L. Jackson. In the film, Nick Fury and the spy agency S.H.I.E.L.D. recruit Tony Stark, Steve Rogers, Bruce Banner, Thor, Natasha Romanoff, and Clint Barton to form a team capable of stopping Thor's brother Loki from subjugating Earth.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 143
+  },
+  {
+    "id": "the-bourne-identity-2002",
+    "title": "The Bourne Identity",
+    "year": 2002,
+    "directors": [
+      "Doug Liman"
+    ],
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "synopsis": "The Bourne Identity is a 2002 American action-thriller film directed by Doug Liman and written by Tony Gilroy and William Blake Herron. Based on Robert Ludlum's 1980 novel of the same name, it is the first installment in the Bourne franchise, and stars Matt Damon, Franka Potente, Chris Cooper, Clive Owen, Brian Cox, and Adewale Akinnuoye-Agbaje. In the film, Jason Bourne (Damon) has psychogenic amnesia and is forced to fight to unlock his identity and his mysterious connection to the CIA.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/49/The_Bourne_Identity_%282002%29_US_poster.jpg",
+    "format": "Blu-ray + DVD",
+    "runtimeMinutes": 119
+  },
+  {
     "id": "the-bourne-ultimatum-2007",
     "title": "The Bourne Ultimatum",
     "year": 2007,
@@ -1468,6 +1889,21 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/The_Call_of_the_Wild_poster.jpg",
     "format": "Blu-ray",
     "runtimeMinutes": 100
+  },
+  {
+    "id": "the-campaign-2012",
+    "title": "The Campaign",
+    "year": 2012,
+    "directors": [
+      "Jay Roach"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "synopsis": "The Campaign is a 2012 American political satire comedy film directed by Jay Roach, written by Shawn Harwell and Chris Henchy and stars Will Ferrell and Zach Galifianakis as two North Carolinians vying for a seat in Congress.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/Campaign_film_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 85
   },
   {
     "id": "the-chronicles-of-narnia-prince-caspian-2008",
@@ -1555,6 +1991,23 @@
     "runtimeMinutes": 106
   },
   {
+    "id": "the-fate-of-the-furious-2017",
+    "title": "The Fate of the Furious",
+    "year": 2017,
+    "directors": [
+      "F. Gary Gray"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "synopsis": "The Fate of the Furious is a 2017 American action film directed by F. Gary Gray and written by Chris Morgan. It is the sequel to Furious 7 (2015) and the eighth installment in the Fast & Furious franchise. The film stars Vin Diesel as Dominic Toretto, alongside Dwayne Johnson, Jason Statham, Michelle Rodriguez, Tyrese Gibson, Chris \"Ludacris\" Bridges, Scott Eastwood, Nathalie Emmanuel, Elsa Pataky, Kurt Russell, and Charlize Theron. In the film, Dom has settled down with his wife Letty Ortiz, until cyberterrorist Cipher (Theron) coerces him into working for her and turns him against his team, forcing them to find Dom and take down Cipher.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Fate_of_The_Furious_Theatrical_Poster.jpg",
+    "format": "4K UHD",
+    "runtimeMinutes": 136
+  },
+  {
     "id": "the-green-hornet-2011",
     "title": "The Green Hornet",
     "year": 2011,
@@ -1587,6 +2040,55 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Hitchhikers_guide_to_the_galaxy.jpg",
     "format": "Blu-ray",
     "runtimeMinutes": 109
+  },
+  {
+    "id": "the-hitmans-bodyguard-2017",
+    "title": "The Hitman's Bodyguard",
+    "year": 2017,
+    "directors": [
+      "Patrick Hughes"
+    ],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "synopsis": "The Hitman's Bodyguard is a 2017 action comedy film directed by Patrick Hughes and written by Tom O'Connor. It stars Ryan Reynolds, Samuel L. Jackson, Gary Oldman and Salma Hayek. In the film, Michael Bryce (Reynolds) must protect Darius Kincaid (Jackson), an imprisoned hitman on his way to testify at the International Criminal Court against a sadistic Eastern European dictator Vladislav Dukhovich (Oldman).",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/HitmansBodyguard.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 118
+  },
+  {
+    "id": "the-hobbit-an-unexpected-journey-2012",
+    "title": "The Hobbit: An Unexpected Journey",
+    "year": 2012,
+    "directors": [
+      "Peter Jackson"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "The Hobbit: An Unexpected Journey is a 2012 epic fantasy film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, Jackson, and Guillermo del Toro. It is based on the 1937 novel The Hobbit by J. R. R. Tolkien. The film is the first installment in The Hobbit trilogy, acting as a prequel to Jackson's The Lord of the Rings trilogy (2001–2003). The story is set in Middle-earth sixty years before the main events of The Lord of the Rings and portions of the film are adapted from the appendices to Tolkien's The Return of the King. An Unexpected Journey tells the tale of Bilbo Baggins, who is convinced by the wizard Gandalf to accompany thirteen Dwarves, led by Thorin Oakenshield, on a quest to reclaim the Lonely Mountain from the dragon Smaug. The ensemble cast also includes Ken Stott, Cate Blanchett, Ian Holm, Christopher Lee, Hugo Weaving, James Nesbitt, Elijah Wood, and Andy Serkis. It features Sylvester McCoy, Barry Humphries, and Manu Bennett.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/b3/The_Hobbit-_An_Unexpected_Journey.jpeg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 169
+  },
+  {
+    "id": "the-hobbit-the-desolation-of-smaug-2013",
+    "title": "The Hobbit: The Desolation of Smaug",
+    "year": 2013,
+    "directors": [
+      "Peter Jackson"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "synopsis": "The Hobbit: The Desolation of Smaug is a 2013 fantasy film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, Jackson, and Guillermo del Toro, based on the 1937 novel The Hobbit by J. R. R. Tolkien. The sequel to 2012's The Hobbit: An Unexpected Journey, the film is the second instalment in The Hobbit trilogy, acting as a prequel to Jackson's The Lord of the Rings trilogy.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/4f/The_Hobbit_-_The_Desolation_of_Smaug_theatrical_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 161
   },
   {
     "id": "the-hunger-games-2012",
@@ -1657,6 +2159,22 @@
     "runtimeMinutes": 115
   },
   {
+    "id": "the-italian-job-2003",
+    "title": "The Italian Job",
+    "year": 2003,
+    "directors": [
+      "F. Gary Gray"
+    ],
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "synopsis": "The Italian Job is a 2003 American heist action film directed by F. Gary Gray with a screenplay by Donna Powers and Wayne Powers. The film stars an ensemble cast consisting of Mark Wahlberg, Charlize Theron, Edward Norton, Jason Statham, Seth Green, Mos Def, and Donald Sutherland. Inspired by the 1969 British film, but with an original story, the plot follows a motley crew of thieves who plan to steal gold from a former associate who double-crossed them. Despite the shared title, the plot and characters of this film differ from its source material; Gray described the film as \"an homage to the original.\"",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/Italianjob.jpg",
+    "format": "Blu-ray"
+  },
+  {
     "id": "the-kingdom-2007",
     "title": "The Kingdom",
     "year": 2007,
@@ -1725,6 +2243,23 @@
     "runtimeMinutes": 130
   },
   {
+    "id": "the-revenant-2015",
+    "title": "The Revenant",
+    "year": 2015,
+    "directors": [
+      "Alejandro González Iñárritu"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "synopsis": "The Revenant is a 2015 American epic Western action drama film directed by Alejandro G. Iñárritu. The screenplay by Mark L. Smith and Iñárritu is based in part on Michael Punke's 2002 novel The Revenant, which describes frontiersman Hugh Glass's experiences in 1823. The film is a remake of the film Man in the Wilderness (1971). The film stars Leonardo DiCaprio as Glass, alongside Tom Hardy, Domhnall Gleeson and Will Poulter.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/b6/The_Revenant_2015_film_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 156
+  },
+  {
     "id": "the-sitter-2011",
     "title": "The Sitter",
     "year": 2011,
@@ -1755,6 +2290,22 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/Sorcerers_apprentice_poster.jpg",
     "format": "Blu-ray",
     "runtimeMinutes": 109
+  },
+  {
+    "id": "the-terminator-1984",
+    "title": "The Terminator",
+    "year": 1984,
+    "directors": [
+      "James Cameron"
+    ],
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "synopsis": "The Terminator is a 1984 American science fiction action film directed by James Cameron, who co-wrote it with producer Gale Anne Hurd. It stars Arnold Schwarzenegger as the titular character, a cybernetic assassin sent back in time from the post-apocalyptic 2029 to 1984 to assassinate Sarah Connor, whose future son will one day save the world from Skynet, a hostile artificial intelligence. Soldier Kyle Reese additionally travels back in time to protect Sarah.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/The_Terminator.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 107
   },
   {
     "id": "the-tourist-2010",
@@ -1858,6 +2409,39 @@
     "runtimeMinutes": 115
   },
   {
+    "id": "top-gun-1986",
+    "title": "Top Gun",
+    "year": 1986,
+    "directors": [
+      "Tony Scott"
+    ],
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "synopsis": "Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer, with distribution by Paramount Pictures. The screenplay was written by Jim Cash and Jack Epps Jr., and was inspired by an article titled \"Top Guns\", written by Ehud Yonay and published in California magazine three years earlier. It stars Tom Cruise as Lieutenant Pete \"Maverick\" Mitchell, a young naval aviator aboard the aircraft carrier USS Enterprise. He and his radar intercept officer, Lieutenant Nick \"Goose\" Bradshaw, are given the chance to train at the United States Navy's Fighter Weapons School at Naval Air Station Miramar in San Diego, California. Kelly McGillis, Val Kilmer, and Tom Skerritt also appear in supporting roles.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Top_Gun_Movie.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 105
+  },
+  {
+    "id": "up-2009",
+    "title": "Up",
+    "year": 2009,
+    "directors": [
+      "Pete Docter"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Up is a 2009 American animated adventure film directed by Pete Docter and written by Bob Peterson and Docter. Produced by Pixar Animation Studios for Walt Disney Pictures, the film centers on Carl Fredricksen, an elderly widower who, by attaching numerous helium balloons to his house, travels to Venezuela with youngster Russell in order to fulfill a promise that he made to his late wife. Along the way, they befriend a talking dog as well as an exotic bird and encounter Carl's childhood idol Charles Muntz, who has sinister plans to capture the bird.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg",
+    "format": "4K UHD",
+    "runtimeMinutes": 96
+  },
+  {
     "id": "venom-2018",
     "title": "Venom",
     "year": 2018,
@@ -1890,6 +2474,23 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/58/Vice_%282018_film_poster%29.png",
     "format": "Blu-ray",
     "runtimeMinutes": 132
+  },
+  {
+    "id": "wall-e-2008",
+    "title": "WALL-E",
+    "year": 2008,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synopsis": "WALL-E is a 2008 American animated science fiction film directed by Andrew Stanton, who co-wrote the screenplay with Jim Reardon, based on a story by Stanton and Pete Docter. Produced by Pixar Animation Studios for Walt Disney Pictures, the film stars the voices of Ben Burtt, Elissa Knight, Jeff Garlin, John Ratzenberger, Kathy Najimy, and Sigourney Weaver, with Fred Willard in a live-action role. The film follows a solitary robot named WALL-E on a future, uninhabitable, deserted Earth in 2805, left to clean up garbage. He is visited by a robot called EVE sent from the starship Axiom, with whom he falls in love and pursues across the galaxy.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/WALL-E_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 98
   },
   {
     "id": "wanted-2008",

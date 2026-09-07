@@ -2,6 +2,13 @@ import { useEffect, useMemo, useState } from 'react'
 import type { Movie, SortKey } from './types'
 import './App.css'
 
+
+function isFourK(format?: string): boolean {
+  if (!format) return false
+  const f = format.toLowerCase()
+  return f.includes('4k') || f === '4k uhd' || f === '4k ultra hd'
+}
+
 function formatRuntime(minutes?: number): string | null {
   if (!minutes || minutes <= 0) return null
   const h = Math.floor(minutes / 60)
@@ -41,6 +48,7 @@ export default function App() {
   const [query, setQuery] = useState('')
   const [genre, setGenre] = useState('all')
   const [director, setDirector] = useState('all')
+  const [format, setFormat] = useState('all')
   const [sortKey, setSortKey] = useState<SortKey>('title')
   const [selected, setSelected] = useState<Movie | null>(null)
 
@@ -93,6 +101,15 @@ export default function App() {
     return Array.from(set).sort((a, b) => a.localeCompare(b))
   }, [movies])
 
+
+  const formats = useMemo(() => {
+    const set = new Set<string>()
+    movies.forEach((m) => {
+      if (m.format) set.add(m.format)
+    })
+    return Array.from(set).sort((a, b) => a.localeCompare(b))
+  }, [movies])
+
   const hasSamples = useMemo(() => movies.some((m) => m.sample), [movies])
 
   const filtered = useMemo(() => {
@@ -101,6 +118,13 @@ export default function App() {
       if (q && !m.title.toLowerCase().includes(q)) return false
       if (genre !== 'all' && !m.genres.includes(genre)) return false
       if (director !== 'all' && !m.directors.includes(director)) return false
+      if (format !== 'all') {
+        if (format === '4K Ultra HD') {
+          if (!isFourK(m.format)) return false
+        } else if ((m.format || '') !== format) {
+          return false
+        }
+      }
       return true
     })
     list.sort((a, b) => {
@@ -113,7 +137,7 @@ export default function App() {
       return b.year - a.year
     })
     return list
-  }, [movies, query, genre, director, sortKey])
+  }, [movies, query, genre, director, format, sortKey])
 
   if (loading) {
     return (
@@ -186,6 +210,24 @@ export default function App() {
             </select>
           </div>
           <div className="filter-group">
+            <label htmlFor="format">Format</label>
+            <select
+              id="format"
+              value={format}
+              onChange={(e) => setFormat(e.target.value)}
+            >
+              <option value="all">All formats</option>
+              <option value="4K Ultra HD">4K Ultra HD</option>
+              {formats
+                .filter((f) => !isFourK(f))
+                .map((f) => (
+                  <option key={f} value={f}>
+                    {f}
+                  </option>
+                ))}
+            </select>
+          </div>
+          <div className="filter-group">
             <label htmlFor="sort">Sort</label>
             <select
               id="sort"
@@ -220,6 +262,7 @@ export default function App() {
             >
               <div className="poster-wrap">
                 {movie.sample && <span className="sample-badge">Sample</span>}
+                {isFourK(movie.format) && <span className="uhd-badge">4K</span>}
                 <PosterImage src={movie.posterUrl} alt={movie.title} />
               </div>
               <div className="card-body">
@@ -260,6 +303,7 @@ export default function App() {
             <div className="modal-content">
               <div className="modal-poster">
                 {selected.sample && <span className="sample-badge">Sample</span>}
+                {isFourK(selected.format) && <span className="uhd-badge">4K</span>}
                 <PosterImage src={selected.posterUrl} alt={selected.title} />
               </div>
               <div className="modal-info">
@@ -273,6 +317,7 @@ export default function App() {
                 </p>
                 <div className="chips">
                   {selected.sample && <span className="chip sample">Sample</span>}
+                  {isFourK(selected.format) && <span className="chip uhd">4K UHD</span>}
                   {selected.directors.map((d) => (
                     <span className="chip" key={`d-${d}`}>
                       {d}
