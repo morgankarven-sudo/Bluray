@@ -33,18 +33,6 @@
     "runtimeMinutes": 117
   },
   {
-    "id": "a24-horror-5-film-collection-2020",
-    "title": "A24 Horror 5-Film Collection",
-    "year": 2020,
-    "directors": [],
-    "genres": [
-      "Horror"
-    ],
-    "synopsis": "A Blu-ray multi-pack collecting five A24 horror films. Exact titles in this physical set are not listed on the case spine; this entry represents the collection as a whole.",
-    "posterUrl": "",
-    "format": "Blu-ray"
-  },
-  {
     "id": "adventureland-2009",
     "title": "Adventureland",
     "year": 2009,
@@ -277,6 +265,22 @@
     "runtimeMinutes": 178
   },
   {
+    "id": "cast-away-2000",
+    "title": "Cast Away",
+    "year": 2000,
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "synopsis": "Cast Away is a 2000 American survival drama film directed and co-produced by Robert Zemeckis, written by William Broyles Jr. and starring Tom Hanks, Helen Hunt, and Nick Searcy. Hanks plays a FedEx troubleshooter who is stranded on a deserted island after his plane crashes in the South Pacific, and the plot focuses on his desperate attempts to survive and return home. Filming took place from January to March 1999, and April to May 2000.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/Cast_away_film_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 143
+  },
+  {
     "id": "cedar-rapids-2011",
     "title": "Cedar Rapids",
     "year": 2011,
@@ -410,6 +414,24 @@
     "runtimeMinutes": 119
   },
   {
+    "id": "despicable-me-2010",
+    "title": "Despicable Me",
+    "year": 2010,
+    "directors": [
+      "Chris Renaud",
+      "Pierre Coffin"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Despicable Me is a 2010 American animated comedy film directed by Chris Renaud and Pierre Coffin and written by Cinco Paul and Ken Daurio. The first feature film produced by Illumination Entertainment, it features the voices of Steve Carell, Jason Segel, Russell Brand, Kristen Wiig, Miranda Cosgrove, Will Arnett, and Julie Andrews. The story follows Gru, a longtime supervillain who adopts three orphan girls to use as pawns in a sinister scheme, but reluctantly develops an emotional attachment to them.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/Despicable_Me_%282010_animated_feature_film%29.jpg",
+    "format": "Blu-ray + DVD",
+    "runtimeMinutes": 95
+  },
+  {
     "id": "divergent-2014",
     "title": "Divergent",
     "year": 2014,
@@ -458,6 +480,23 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/1f/Dolittle_%282020_film_poster%29.png",
     "format": "4K UHD",
     "runtimeMinutes": 101
+  },
+  {
+    "id": "dr-no-1962",
+    "title": "Dr. No",
+    "year": 1962,
+    "directors": [
+      "Terence Young"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "synopsis": "Dr. No is a 1962 spy film and the first film in the James Bond series, starring Sean Connery as the fictional MI6 agent James Bond. Co-starring Ursula Andress, Joseph Wiseman and Jack Lord, it was directed by Terence Young and adapted by Richard Maibaum, Johanna Harwood, and Berkely Mather from the 1958 novel by Ian Fleming. The film was produced by Harry Saltzman and Albert R. Broccoli of Eon Productions, a partnership that continued until 1975. In the film, James Bond is sent to Jamaica to investigate the disappearance of a fellow British agent. The trail leads him to the underground base of Dr. No, who is plotting to disrupt an early American space launch from Cape Canaveral with a radio beam weapon.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Dr._No_-_UK_cinema_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 110
   },
   {
     "id": "dumbo-1941",
@@ -629,6 +668,23 @@
     "format": "Blu-ray"
   },
   {
+    "id": "from-russia-with-love-1963",
+    "title": "From Russia with Love",
+    "year": 1963,
+    "directors": [
+      "Terence Young"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "synopsis": "From Russia with Love is a 1963 spy film directed by Terence Young and the second in the James Bond series. It was produced by Eon Productions, starring Sean Connery as the fictional MI6 agent James Bond.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/a/ad/From_Russia_with_Love_%E2%80%93_UK_cinema_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 115
+  },
+  {
     "id": "frozen-2013",
     "title": "Frozen",
     "year": 2013,
@@ -698,6 +754,23 @@
     "runtimeMinutes": 107
   },
   {
+    "id": "goldfinger-1964",
+    "title": "Goldfinger",
+    "year": 1964,
+    "directors": [
+      "Guy Hamilton"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "synopsis": "Goldfinger is a 1964 spy film and the third instalment in the James Bond series produced by Eon Productions, starring Sean Connery as the fictional MI6 agent James Bond. It is based on the 1959 novel by Ian Fleming. The film also stars Honor Blackman, Gert Fröbe and Shirley Eaton. Goldfinger was produced by Albert R. Broccoli and Harry Saltzman. The film was the first of four Bond films directed by Guy Hamilton.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Goldfinger_-_UK_cinema_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 110
+  },
+  {
     "id": "gravity-2013",
     "title": "Gravity",
     "year": 2013,
@@ -728,6 +801,23 @@
     "synopsis": "The Great Barrier Reef is the world's largest coral reef system off the coast of Australia. Great Barrier Reef may also refer to:",
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/92/BBC_Great_Barrier_Reef_2012.jpg",
     "format": "Blu-ray"
+  },
+  {
+    "id": "green-room-2015",
+    "title": "Green Room",
+    "year": 2015,
+    "directors": [
+      "Jeremy Saulnier"
+    ],
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "synopsis": "Green Room is a 2015 American horror-thriller film written and directed by Jeremy Saulnier, and produced by Neil Kopp, Victor Moyers and Anish Savjani. Starring Anton Yelchin, Imogen Poots, Alia Shawkat, Joe Cole, Callum Turner and Patrick Stewart, the film focuses on a punk band who find themselves attacked by neo-Nazi skinheads after witnessing a murder at a remote club in the Pacific Northwest.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/Green_Room_%28film%29_POSTER.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 95
   },
   {
     "id": "green-zone-2010",
@@ -847,6 +937,23 @@
     "runtimeMinutes": 98
   },
   {
+    "id": "hereditary-2018",
+    "title": "Hereditary",
+    "year": 2018,
+    "directors": [
+      "Ari Aster"
+    ],
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "synopsis": "Hereditary is a 2018 American supernatural psychological horror film written and directed by Ari Aster in his feature directorial debut. Starring Toni Collette, Alex Wolff, Milly Shapiro, Ann Dowd, and Gabriel Byrne, the film follows Annie Graham (Collette), a grieving miniature artist who uncovers disturbing secrets about her recently deceased mother. She is subsequently tormented by sinister paranormal occurrences, along with her husband Steve (Byrne) and their children, Peter (Wolff) and Charlie (Shapiro).",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 127
+  },
+  {
     "id": "hitman-agent-47-2015",
     "title": "Hitman: Agent 47",
     "year": 2015,
@@ -894,6 +1001,23 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/Horrible_Bosses_2.jpg",
     "format": "Blu-ray",
     "runtimeMinutes": 108
+  },
+  {
+    "id": "ice-age-the-meltdown-2006",
+    "title": "Ice Age: The Meltdown",
+    "year": 2006,
+    "directors": [
+      "Carlos Saldanha"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "synopsis": "Ice Age: The Meltdown is a 2006 American animated adventure comedy film directed by Carlos Saldanha and written by Peter Gaulke, Gerry Swallow, and Jim Hecht. Produced by 20th Century Fox Animation and Blue Sky Studios, it is the second installment in the Ice Age film series and the sequel to Ice Age (2002). Ray Romano, John Leguizamo, Denis Leary, and Chris Wedge reprise their roles from the first film, with Seann William Scott, Josh Peck, and Queen Latifah joining the voice cast. In the film, Manny, Sid, and Diego attempt to escape an impending flood, during which Manny finds love.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/f/f1/Ice_Age_2_poster.jpg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 90
   },
   {
     "id": "inception-2010",
@@ -1011,6 +1135,22 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg",
     "format": "Blu-ray",
     "runtimeMinutes": 130
+  },
+  {
+    "id": "it-comes-at-night-2017",
+    "title": "It Comes at Night",
+    "year": 2017,
+    "directors": [
+      "Trey Edward Shults"
+    ],
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "synopsis": "It Comes at Night is a 2017 American psychological horror film written and directed by Trey Edward Shults. It stars Joel Edgerton, Christopher Abbott, Carmen Ejogo, Kelvin Harrison Jr., and Riley Keough. The film focuses on a family hiding in a forest as the Earth is taken over by a highly contagious disease.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/e9/It_Comes_at_Night.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 91
   },
   {
     "id": "jackass-number-two-2006",
@@ -1297,7 +1437,7 @@
     ],
     "synopsis": "Monsters, Inc. is a 2001 American animated fantasy comedy film directed by Pete Docter and written by Andrew Stanton and Daniel Gerson. Produced by Pixar Animation Studios for Walt Disney Pictures, the film stars the voices of John Goodman, Billy Crystal, Steve Buscemi, James Coburn, Jennifer Tilly, and Mary Gibbs. It centers on two monsters, the hairy James P.",
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/63/Monsters_Inc.JPG",
-    "format": "Blu-ray",
+    "format": "Blu-ray (SteelBook)",
     "runtimeMinutes": 92
   },
   {
@@ -2008,6 +2148,23 @@
     "runtimeMinutes": 136
   },
   {
+    "id": "the-greatest-showman-2017",
+    "title": "The Greatest Showman",
+    "year": 2017,
+    "directors": [
+      "Michael Gracey"
+    ],
+    "genres": [
+      "Biography",
+      "Drama",
+      "Musical"
+    ],
+    "synopsis": "The Greatest Showman is a 2017 American musical period drama film directed by Michael Gracey from a screenplay by Jenny Bicks and Bill Condon, based on an original story by Bicks. The film stars Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson, and Zendaya. Featuring nine original songs written by Benj Pasek and Justin Paul, and an original musical orchestral score composed by John Debney and Joseph Trapanese, the film is a heavily fictionalized depiction of the life of P. T. Barnum, a showman and entertainer who created the Barnum & Bailey Circus, and its star attractions.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/1/10/The_Greatest_Showman_poster.png",
+    "format": "Blu-ray + DVD",
+    "runtimeMinutes": 105
+  },
+  {
     "id": "the-green-hornet-2011",
     "title": "The Green Hornet",
     "year": 2011,
@@ -2342,6 +2499,23 @@
     "runtimeMinutes": 107
   },
   {
+    "id": "the-witch-2015",
+    "title": "The Witch",
+    "year": 2015,
+    "directors": [
+      "Robert Eggers"
+    ],
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "synopsis": "The Witch is a 2015 gothic folk horror film written and directed by Robert Eggers in his feature directorial debut. It stars Anya Taylor-Joy in her feature film debut, alongside Ralph Ineson, Kate Dickie, Harvey Scrimshaw, Ellie Grainger, and Lucas Dawson. Set in 1630s New England, the narrative follows a Puritan family who are preyed upon by an evil force in the woods beyond their farm. In fear and desperation, they turn upon one another even when the oldest daughter is suspected of being a witch.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/The_Witch_poster.png",
+    "format": "Blu-ray",
+    "runtimeMinutes": 92
+  },
+  {
     "id": "the-wolf-of-wall-street-2013",
     "title": "The Wolf of Wall Street",
     "year": 2013,
@@ -2575,6 +2749,23 @@
     "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/dc/World_War_Z_poster.jpg",
     "format": "Blu-ray",
     "runtimeMinutes": 116
+  },
+  {
+    "id": "x-2022",
+    "title": "X",
+    "year": 2022,
+    "directors": [
+      "Ti West"
+    ],
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "synopsis": "X is a 2022 American slasher film written, directed, produced and edited by Ti West. It stars Mia Goth in dual roles: a young woman named Maxine and an elderly woman named Pearl. The film also stars Jenna Ortega, Martin Henderson, Brittany Snow, Owen Campbell, Stephen Ure, and Scott Mescudi. Set in 1979, the film follows a cast and crew who gather to make a pornographic film on an elderly couple's rural Texas property.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/34/X_%282022_film%29.jpeg",
+    "format": "Blu-ray",
+    "runtimeMinutes": 106
   },
   {
     "id": "yes-man-2008",
